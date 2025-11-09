@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Movie - Watch-It</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+  <!-- ===== NAVBAR ===== -->
+  <header class="navbar">
+    <div class="logo">Watch-It</div>
+    <nav class="nav-links">
+      <a href="index.html" class="nav-item">Home</a>
+      <a id="navLogin" href="login.html" class="nav-item">Login</a>
+      <!-- Logout will be injected dynamically -->
+    </nav>
+  </header>
+
+  <script src="js/navbar.js"></script>
+
+  <!-- ===== BACKDROP ===== -->
+  <div id="movieBackdrop" class="backdrop"></div>
+
+  <!-- ===== MOVIE PAGE MAIN ===== -->
+  <main class="movie-page">
+    <!-- ===== POSTER + META ===== -->
+    <section class="movie-header">
+      <img id="moviePoster" class="poster" alt="Movie Poster" />
+
+      <div class="movie-meta">
+        <h1 id="movieTitle"></h1>
+        <p id="viewCount" class="views"></p>
+        <div id="genreTags" class="genre-tags"></div>
+
+        <p id="movieYear"></p>
+        <p id="movieRelease"></p>
+        <br />
+        <p id="movieDescription"></p>
+        <br />
+
+        <strong>Cast:</strong>
+        <div id="castList" class="cast-grid"></div>
+      </div>
+    </section>
+
+    <!-- ===== TRAILER + INFO ===== -->
+    <section class="trailer-section">
+      <h3 class="section-heading">Watch Trailer & Info</h3>
+
+      <div class="trailer-container">
+        <!-- LEFT: Trailer -->
+        <div class="trailer-left">
+          <iframe id="trailerFrame" frameborder="0" allowfullscreen></iframe>
+        </div>
+
+        <!-- RIGHT: Movie Details -->
+        <div class="trailer-right">
+          <h4>Movie Stats</h4>
+          <p><strong>Runtime:</strong> <span id="movieRuntime"></span></p>
+          <p><strong>Release Year:</strong> <span id="movieYearDetail"></span></p>
+          <p><strong>Genre:</strong> <span id="movieGenreDetail"></span></p>
+          <p><strong>Views:</strong> <span id="movieViews"></span></p>
+
+          <button id="watchlistBtn" class="watchlist-btn">Add to Watchlist</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== SIMILAR MOVIES ===== -->
+    <section class="section">
+      <h3 class="section-heading">Similar Movies</h3>
+      <div id="similarMovies" class="similar-grid"></div>
+    </section>
+
+    <!-- ===== REVIEWS SECTION ===== -->
+    <section class="section reviews-section">
+      <h3>Leave a Review</h3>
+
+      <!-- ⭐ STAR RATING -->
+      <div id="starRating" class="stars">
+        <span data-star="1">★</span>
+        <span data-star="2">★</span>
+        <span data-star="3">★</span>
+        <span data-star="4">★</span>
+        <span data-star="5">★</span>
+      </div>
+
+      <!-- 📝 REVIEW INPUT -->
+      <textarea id="reviewText" placeholder="Write your review..."></textarea>
+      <button id="submitReviewBtn">Submit Review</button>
+
+      <!-- 💬 USER REVIEWS -->
+      <h3 style="margin-top:25px;">User Reviews</h3>
+      <div id="userReviews" class="reviews-list"></div>
+    </section>
+  </main>
+
+  <script src="js/movie.js" defer></script>
+</body>
+</html>
+
+

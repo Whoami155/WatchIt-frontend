@@ -1,0 +1,222 @@
+/* ===== WATCH-IT AUTH STYLE ===== */
+body {
+  background: radial-gradient(circle at top left, #101010, #000);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+
+.auth-page {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.auth-box {
+  background: rgba(20, 20, 20, 0.9);
+  border: 1px solid #222;
+  border-radius: 16px;
+  padding: 40px 50px;
+  width: 360px;
+  box-shadow: 0 0 25px rgba(0, 255, 162, 0.15);
+  text-align: center;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease-in-out;
+}
+
+.auth-box:hover {
+  box-shadow: 0 0 35px rgba(0, 255, 162, 0.25);
+}
+
+.auth-box h2 {
+  font-size: 26px;
+  font-weight: 700;
+  color: #00ffa2;
+  margin-bottom: 8px;
+}
+
+.auth-sub {
+  font-size: 14px;
+  color: #aaa;
+  margin-bottom: 30px;
+}
+
+.auth-input {
+  display: block;
+  width: 100%;
+  background: #111;
+  border: 1px solid #333;
+  color: white;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 15px;
+  margin-bottom: 15px;
+  transition: 0.3s;
+}
+
+.auth-input:focus {
+  border-color: #00ffa2;
+  outline: none;
+  box-shadow: 0 0 10px rgba(0, 255, 162, 0.25);
+}
+
+.auth-btn {
+  width: 100%;
+  background: #00ffa2;
+  border: none;
+  color: #000;
+  font-weight: 700;
+  border-radius: 8px;
+  padding: 12px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.auth-btn:hover {
+  background: #00e491;
+  transform: translateY(-1px);
+}
+
+.auth-switch {
+  color: #aaa;
+  font-size: 14px;
+  margin-top: 15px;
+}
+
+.auth-switch a {
+  color: #00ffa2;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+#signupMsg {
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/* Floating glow particles */
+.glow {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(0,255,162,0.25) 0%, transparent 70%);
+  filter: blur(60px);
+  animation: float 8s infinite ease-in-out alternate;
+}
+
+.glow:nth-child(1) { top: 10%; left: 15%; animation-delay: 0s; }
+.glow:nth-child(2) { bottom: 10%; right: 10%; animation-delay: 3s; }
+
+@keyframes float {
+  0% { transform: translateY(0px); opacity: 0.8; }
+  100% { transform: translateY(-20px); opacity: 1; }
+}
+
+
+
+/* ===== NEW LOGIN PAGE DESIGN ===== */
+.login-bg {
+  background: url("../assets/bg-cinema.jpg") no-repeat center center/cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(6px);
+  z-index: 1;
+}
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 2;
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+}
+
+.login-box {
+  background: rgba(20, 20, 20, 0.85);
+  border-radius: 16px;
+  padding: 40px 50px;
+  width: 100%;
+  box-shadow: 0 0 35px rgba(0, 255, 162, 0.15);
+  backdrop-filter: blur(10px);
+  margin-bottom: 40px;
+}
+
+.login-box h2 {
+  font-size: 26px;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 8px;
+}
+
+.login-box h2 span {
+  color: #00ffa2;
+}
+
+.login-box .auth-sub {
+  font-size: 14px;
+  color: #aaa;
+  margin-bottom: 30px;
+}
+
+.features {
+  text-align: center;
+  color: #ddd;
+}
+
+.features h3 {
+  color: #00ffa2;
+  font-size: 18px;
+  margin-bottom: 15px;
+  letter-spacing: 0.5px;
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
+
+.feature-item {
+  font-size: 15px;
+  color: #aaa;
+  background: rgba(25, 25, 25, 0.6);
+  padding: 10px 15px;
+  border-radius: 10px;
+  transition: 0.3s ease;
+  box-shadow: 0 0 10px rgba(0, 255, 162, 0.05);
+}
+
+.feature-item:hover {
+  color: #00ffa2;
+  transform: scale(1.03);
+  box-shadow: 0 0 15px rgba(0, 255, 162, 0.15);
+}
+
+/* Mobile fix */
+@media (max-width: 768px) {
+  .login-container {
+    max-width: 90%;
+  }
+}

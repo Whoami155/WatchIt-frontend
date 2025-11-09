@@ -1,0 +1,3200 @@
+[
+  {
+    "id": 1,
+    "tmdb_id": 346698,
+    "title": "Barbie",
+    "year": "2023",
+    "genre": "Comedy/Fantasy",
+    "poster": "https://www.youloveit.com/uploads/posts/2023-04/1680617959_fs3-jvewcaa2jyj.jpg",
+    "backdrop": "https://i.pinimg.com/736x/e8/92/9b/e8929bfe52f769365b0b988df0944bc0.jpg",
+    "trailer": "pBk4NYhWNMM",
+    "description": "Barbie and Ken explore the real world after leaving Barbie Land, discovering the challenges and joys of human life.",
+    "castDetail": [
+      {
+        "name": "Margot Robbie",
+        "photo": "assets/posters/marg.jpg"
+      },
+      {
+        "name": "Ryan Gosling",
+        "photo": "assets/posters/ryan.jpg"
+      }
+    ],
+    "runtime": "1h 54m",
+    "released": "2023"
+  },
+  {
+    "id": 2,
+    "tmdb_id": 157336,
+    "title": "Interstellar",
+    "year": "2014",
+    "genre": "Sci-Fi/Drama",
+    "poster": "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "backdrop": "assets/posters/interstellar.jpg",
+    "trailer": "zSWdZVtXT7E",
+    "description": "A former NASA pilot joins a mission through a wormhole to secure humanity's future, while struggling with the emotional toll of leaving his children behind.",
+    "castDetail": [
+      {
+        "name": "Matthew McConaughey",
+        "photo": "https://www.elpixer.com/uploads/2025/10/04/1759592670_824594_oFVgCA4_qkyuxelmzvzau5mvwpplmvktfje-1920_large.webp"
+      },
+      {
+        "name": "Anne Hathaway",
+        "photo": "assets/posters/anne.jpg"
+      },
+      {
+        "name": "Jessica Chastain",
+        "photo": "assets/posters/jess.jpg"
+      }
+    ],
+    "runtime": "2h 49m",
+    "released": "2014"
+  },
+  {
+    "id": 3,
+    "tmdb_id": 1895,
+    "title": "Star Wars: Episode III – Revenge of the Sith",
+    "year": "2005",
+    "genre": "Action/Sci-Fi",
+    "poster": "https://i.redd.it/keaxfxiu5ble1.jpeg",
+    "backdrop": "https://i.redd.it/keaxfxiu5ble1.jpeg",
+    "trailer": "5UnjrG_N8hU",
+    "description": "After three years of war, Jedi Knight Anakin Skywalker succumbs to the dark side of the Force and becomes Darth Vader, ultimately helping the Sith overthrow the Republic.",
+    "castDetail": [
+      {
+        "name": "Hayden Christensen",
+        "photo": "https://i.pinimg.com/1200x/43/e8/4e/43e84ec23ceaf357e95a86b63664e555.jpg"
+      },
+      {
+        "name": "Ewan McGregor",
+        "photo": "https://i.pinimg.com/1200x/38/ff/88/38ff88c449c2c19ed8ee96747b7349d1.jpg"
+      },
+      {
+        "name": "Natalie Portman",
+        "photo": "https://phantom.estaticos-marca.com/f26c748219c5541d7e47a4c6b84c5619/resize/828/f/webp/assets/multimedia/imagenes/2025/01/22/17375497663734.jpg"
+      }
+    ],
+    "runtime": "2h 20m",
+    "released": "2005"
+  },
+  {
+    "id": 4,
+    "tmdb_id": 550,
+    "title": "Fight Club",
+    "year": "1999",
+    "genre": "Drama",
+    "poster": "https://www.themoviedb.org/t/p/w1280/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+    "trailer": "dfeUzm6KF4g",
+    "description": "An office worker forms an underground fight club as a form of male bonding.",
+    "castDetail": [
+      {
+        "name": "Brad Pitt",
+        "photo": "https://menshealth.com.au/wp-content/uploads/2025/05/Everett20Collection-980x631.webp"
+      },
+      {
+        "name": "Edward Norton",
+        "photo": "https://cdn.mos.cms.futurecdn.net/DGPeeygq6A8sBo6p7E8Ayb-1200-80.jpg.webp"
+      },
+      {
+        "name": "Helena Bonham Carter",
+        "photo": "https://imgix.ranker.com/user_node_img/50129/1002576905/original/1002576905-photo-u-2045077948?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&w=500"
+      }
+    ],
+    "runtime": "2h 19m",
+    "released": "1999"
+  },
+  {
+    "id": 5,
+    "tmdb_id": 1592,
+    "title": "Awarapan",
+    "year": "2007",
+    "genre": "Romantic Drama",
+    "poster": "assets/posters/awarapan.jpg",
+    "trailer": "A3z567rXlH8",
+    "description": "A gangster tasked with killing his boss’s mistress becomes compelled to defy orders when her story’s resemblance to his own past awakens his conscience.",
+    "castDetail": [
+      {
+        "name": "Emraan Hashmi",
+        "photo": "assets/posters/emraan.jpg"
+      },
+      {
+        "name": "Shriya Saran",
+        "photo": "https://mcdn.wallpapersafari.com/medium/54/75/TmdM8s.jpg"
+      },
+      {
+        "name": "Mrinalini Sharma",
+        "photo": "https://imgs.search.brave.com/1Uwecr6jrUFjt66cGzu8S68Nj-FbVK531tJ9M6mM5Uc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1ETmxObVV6/TXpFdFpXRXlZeTAw/Wm1JNExXSmpZalV0/TjJJME5EazBaV0pq/Wm1Rd1hrRXlYa0Zx/Y0djQC5qcGc"
+      }
+    ],
+    "runtime": "2h 15m",
+    "released": "2007"
+  },
+  {
+    "id": 6,
+    "tmdb_id": 46648,
+    "title": "True Detective",
+    "year": "2014",
+    "genre": "Crime/Drama/Mystery",
+    "poster": "https://i.pinimg.com/736x/00/4d/1b/004d1bfc93ed7c2c3e94e4b0c9831162.jpg",
+    "backdrop": "https://i.pinimg.com/1200x/da/cc/4b/dacc4b220fcf8c9ec56dc2f8e83f0bd4.jpg",
+    "trailer": "fVQUcaO4AvE",
+    "description": "Two detectives delve into a chilling murder case in Louisiana, uncovering dark secrets and confronting their own inner demons.",
+    "castDetail": [
+      {
+        "name": "Matthew McConaughey",
+        "photo": "https://preview.redd.it/why-do-you-relate-to-rustin-cohle-v0-tzjdkft539ke1.jpg?width=640&crop=smart&auto=webp&s=2c6073c033bfcb0c85b2c2bc8c79f0f17bcead14"
+      },
+      {
+        "name": "Woody Harrelson",
+        "photo": "https://cdn.mos.cms.futurecdn.net/7c8SPJEpJGpfBZarSTNzwn-970-80.jpg.webp"
+      },
+      {
+        "name": "Michelle Monaghan",
+        "photo": "https://www.thedailybeast.com/resizer/v2/G7WQEIMCWBMVNAC4BZ3O5B5OJA.jpg?smart=true&auth=30cc10a2d16a3dbd2266393dbaf73b3e66f647fe0cc28b3a334d7681e6d501d4&width=1600&height=900"
+      }
+    ],
+    "runtime": "8 Episodes",
+    "released": "2014"
+  },
+  {
+    "id": 7,
+    "tmdb_id": 603692,
+    "title": "John Wick: Chapter 4",
+    "year": "2023",
+    "genre": "Action/Thriller",
+    "poster": "https://imgs.search.brave.com/oUoXiB-xqFaCwFbMweLws_93AD9YYxckOAQgS9Eyw8Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d2FsbHBhcGVyc2Fm/YXJpLmNvbS8xNi85/Mi9BT2NsMDcuanBn",
+    "backdrop": "https://image.tmdb.org/t/p/original/h8gHn0OzBoaefsYseUByqsmEDMY.jpg",
+    "trailer": "qEVUtrk8_B4",
+    "description": "John Wick uncovers a path to defeating The High Table, but must face powerful enemies from across the globe.",
+    "castDetail": [
+      {
+        "name": "Keanu Reeves",
+        "photo": "https://imgs.search.brave.com/JXoOo9bgCYTV_eFg6m5HUX4ba1F4UBf5JCpnWhw_FOk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDEyMTQ4/MjUyLmpwZw"
+      },
+      {
+        "name": "Donnie Yen",
+        "photo": "https://ew.com/thmb/PCxcA8BLLmmVk6pdoNs5OtUnnRM=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Donnie-Yen-John-Wick-Chapter-4-051524-c28d3623dc2c4c5d879cdc85bc3ca7c1.jpg"
+      }
+    ],
+    "runtime": "2h 49m",
+    "released": "2023"
+  },
+  {
+    "id": 8,
+    "tmdb_id": 76600,
+    "title": "Avatar: The Way of Water",
+    "year": "2022",
+    "genre": "Adventure/Sci-Fi",
+    "poster": "https://preview.redd.it/official-poster-for-avatar-the-way-of-water-v0-otrr3ic26jx91.jpg?width=1080&crop=smart&auto=webp&s=235dcbc21be0ae8ad39f67480d33c798dfe7bf59",
+    "backdrop": "https://preview.redd.it/official-poster-for-avatar-the-way-of-water-v0-otrr3ic26jx91.jpg?width=1080&crop=smart&auto=webp&s=235dcbc21be0ae8ad39f67480d33c798dfe7bf59",
+    "trailer": "d9MyW72ELq0",
+    "description": "Jake Sully and Neytiri must protect their family and find refuge with the Metkayina clan when a familiar threat returns.",
+    "castDetail": [
+      {
+        "name": "Sam Worthington",
+        "photo": "https://imgs.search.brave.com/ogePq1sjsPpV1u-jO4Ut4fum5PaP8FGfZkaW6bzwaJY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwLnNyY2RuLmNv/bS93b3JkcHJlc3Mv/d3AtY29udGVudC91/cGxvYWRzLzIwMjMv/MDkvbmV3LXByb2pl/Y3QtMjAyMy0wOS0w/NXQxMjA5MDItNDY3/LmpwZz9xPTUwJmZp/dD1jcm9wJnc9ODI1/JmRwcj0xLjU"
+      },
+      {
+        "name": "Zoe Saldana",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Zoe_Salda%C3%B1a_at_the_2024_Toronto_International_Film_Festival_2_%28cropped_2%29.jpg"
+      }
+    ],
+    "runtime": "3h 12m",
+    "released": "2022"
+  },
+  {
+    "id": 9,
+    "tmdb_id": 155,
+    "title": "The Dark Knight",
+    "year": "2008",
+    "genre": "Action/Crime",
+    "poster": "https://image.tmdb.org/t/p/original/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "backdrop": "https://wallpapercave.com/wp/wp2695371.jpg",
+    "trailer": "EXeTwQWrcwY",
+    "description": "Batman sets out to dismantle the remaining criminal organizations that plague Gotham, but the Joker unleashes chaos.",
+    "castDetail": [
+      {
+        "name": "Christian Bale",
+        "photo": "https://imgs.search.brave.com/hlMRqvDau5OlQRB-KchmkrWk7aWRJ3ZADBAO0V1H-C8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwLmNvbGxpZGVy/aW1hZ2VzLmNvbS93/b3JkcHJlc3Mvd3At/Y29udGVudC91cGxv/YWRzLzIwMjAvMTIv/Y2hyaXN0aWFuLWJh/bGUtdGhlLWRhcmst/a25pZ2h0LXJpc2Vz/LXNvY2lhbC5qcGc_/cT03MCZmaXQ9Y3Jv/cCZ3PTgyNSZkcHI9/MQ"
+      },
+      {
+        "name": "Heath Ledger",
+        "photo": "https://imgs.search.brave.com/sJi0ZdfduvICabr8SsUGULU-KaC7QIIITUHml_wK524/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nZXR3/YWxscGFwZXJzLmNv/bS93YWxscGFwZXIv/ZnVsbC83LzEvYy8x/MDczNDg2LWpva2Vy/LWRhcmsta25pZ2h0/LXdhbGxwYXBlci0x/OTIweDEwODAtZm9y/LXJldGluYS5qcGc"
+      }
+    ],
+    "runtime": "2h 32m",
+    "released": "2008"
+  },
+  {
+    "id": 10,
+    "tmdb_id": 603,
+    "title": "The Matrix",
+    "year": "1999",
+    "genre": "Sci-Fi/Action",
+    "poster": "https://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "trailer": "vKQi3bBA1y8",
+    "description": "A hacker discovers the shocking truth about his reality and his role in the war against its controllers.",
+    "castDetail": [
+      {
+        "name": "Keanu Reeves",
+        "photo": "https://i.pinimg.com/1200x/c8/cc/ec/c8ccecb9e141cea08a5c7fc418f1bc5a.jpg"
+      },
+      {
+        "name": "Carrie-Anne Moss",
+        "photo": "https://i.pinimg.com/736x/19/1f/fa/191ffa2622699ce8ebe3071f6abb573f.jpg"
+      }
+    ],
+    "runtime": "2h 16m",
+    "released": "1999"
+  },
+  {
+    "id": 11,
+    "tmdb_id": 550988,
+    "title": "Free Guy",
+    "year": "2021",
+    "genre": "Comedy/Sci-Fi",
+    "poster": "https://image.tmdb.org/t/p/original/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",
+    "backdrop": "https://ew.com/thmb/meNLn_Hfy-RC9xeOfMKCHCAT0hY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/freeguy_2-2000-29eaa33a64484f6fb8391f89c09fd50a.jpg",
+    "trailer": "X2m-08cOAbc",
+    "description": "A bank teller discovers he's actually a background character in an open-world video game and decides to become the hero.",
+    "castDetail": [
+      {
+        "name": "Ryan Reynolds",
+        "photo": "https://i0.wp.com/nerdbot.com/wp-content/uploads/2021/08/Freeguy-Cover-Image.jpeg?fit=1280%2C720&ssl=1"
+      },
+      {
+        "name": "Jodie Comer",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIM0YU-NSttwF89xF_nzRJkhdK68VAGf-thw&s"
+      }
+    ],
+    "runtime": "1h 55m",
+    "released": "2021"
+  },
+  {
+    "id": 12,
+    "tmdb_id": 1399,
+    "title": "Game of Thrones",
+    "year": "2011",
+    "genre": "Fantasy/Drama",
+    "poster": "https://image.tmdb.org/t/p/original/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/7WUHnWGx5OO145IRxPDUkQSh4C7.jpg",
+    "trailer": "KPLWWIOCOOQ",
+    "description": "Nine noble families wage war against each other to gain control over the mythical land of Westeros.",
+    "castDetail": [
+      {
+        "name": "Emilia Clarke",
+        "photo": "https://ew.com/thmb/VBlAu_EJo_PAl12pcNoOO9HypyI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/helen-sloan-hbo-6-1-2000-166a336cf37e46f09f9227cc75bedd5d.jpg"
+      },
+      {
+        "name": "Kit Harington",
+        "photo": "https://static.toiimg.com/thumb/msid-112485839,width-400,resizemode-4/112485839.jpg"
+      }
+    ],
+    "runtime": "8 Seasons",
+    "released": "2011"
+  },
+  {
+    "id": 13,
+    "tmdb_id": 66732,
+    "title": "Stranger Things",
+    "year": "2016",
+    "genre": "Horror/Mystery",
+    "poster": "https://i.pinimg.com/736x/88/56/4f/88564fb3a6a56236d00851382b59a036.jpg",
+    "backdrop": "https://i.pinimg.com/736x/9e/ac/d0/9eacd089f4073989692898be4a2054f7.jpg",
+    "trailer": "b9EkMc79ZSU",
+    "description": "A group of young friends witness supernatural forces and secret government exploits in their small town.",
+    "castDetail": [
+      {
+        "name": "Millie Bobby Brown",
+        "photo": "https://i.pinimg.com/1200x/8d/6a/a9/8d6aa9bc730ac0d5e51ceec6527b8740.jpg"
+      },
+      {
+        "name": "David Harbour",
+        "photo": "https://i.pinimg.com/736x/c4/49/9b/c4499b69152a9ac90428f98571146d8c.jpg"
+      }
+    ],
+    "runtime": "5 Seasons",
+    "released": "2016"
+  },
+  {
+    "id": 14,
+    "tmdb_id": 438631,
+    "title": "Dune: Part One",
+    "year": "2021",
+    "genre": "Sci-Fi/Adventure",
+    "poster": "https://image.tmdb.org/t/p/original/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+    "backdrop": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "trailer": "n9xhJrPXop4",
+    "description": "Paul Atreides leads nomadic tribes in a battle to control the desert planet Arrakis and its valuable spice.",
+    "castDetail": [
+      {
+        "name": "Timothée Chalamet",
+        "photo": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3848,h_2164,x_54,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImageExchange/mmsport/385/01k77nt9z9wt05efn0m8.jpg"
+      },
+      {
+        "name": "Zendaya",
+        "photo": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2024/01/dune-zendaya.jpg"
+      }
+    ],
+    "runtime": "2h 35m",
+    "released": "2021"
+  },
+
+  {
+  "id": 15,
+  "tmdb_id": 238,
+  "title": "The Godfather",
+  "year": "1972",
+  "genre": "Crime Drama",
+  "poster": "https://imgs.search.brave.com/6-YLnBS0pKD0RSkjEMHmTllUphMOq-K0k07PXY52etU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTEwTDV5cFFCZEwu/anBn",
+  "backdrop":"https://imgs.search.brave.com/6-YLnBS0pKD0RSkjEMHmTllUphMOq-K0k07PXY52etU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTEwTDV5cFFCZEwu/anBn",
+  "trailer": "UaVTIH8mujA",
+  "description": "The aging patriarch of a crime dynasty transfers control of his empire to his reluctant son.",
+  "castDetail": [
+    {
+      "name": "Al Pacino",
+      "photo": "https://imgs.search.brave.com/R9NQEXvQ1MpsEiO8yARRgIQP3fbq5kstT0401GkbGBs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy9hbC1w/YWNpbm8tYXMtbWlj/aGFlbC1jb3JsZW9u/ZS1pbi10aGUtZ29k/ZmF0aGVyLXRoZS1t/b3ZpZS1uZXdzLXBo/b3RvLTE2NDY5MjUy/MjIuanBnP2Nyb3A9/MXh3OjAuOTkzMDV4/aDtjZW50ZXIsdG9w"
+    },
+    {
+      "name": "Marlon Brando",
+      "photo": "https://imgs.search.brave.com/VGD5x_MTFenaSmmxqI5v0L-SA0BcinOcMaxRrvV2UQA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNTI1/NTg4Nzk4L3Bob3Rv/L21hcmxvbi1icmFu/ZG8taW4tdGhlLWdv/ZGZhdGhlci5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9OWx4/WWZUTm5WOHh1bnpH/YVd5Q0dwaVUxc3U4/YzZGZVQxeWdEN3NF/a0VXTT0"
+    },
+    {
+      "name": "James Caan",
+      "photo": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/07/1440/810/GettyImages-1195327829.jpg?ve=1&tl=1"
+    }
+  ],
+  "runtime": "2h 55m",
+  "released": "1972"
+},
+{
+  "id": 16,
+  "tmdb_id": 680,
+  "title": "Pulp Fiction",
+  "year": "1994",
+  "genre": "Crime",
+  "poster": "assets/posters/pulpfiction.jpg",
+  "backdrop":"assets/posters/pulpfiction.jpg",
+  "trailer": "s7EdQ4FqbhY",
+  "description": "The lives of two hitmen, a boxer, and a gangster’s wife intertwine in a series of violent events.",
+  "castDetail": [
+    {
+      "name": "John Travolta",
+      "photo": "https://i.pinimg.com/736x/5b/17/3f/5b173faba4501753b270aa0751460ebb.jpg"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "photo": "https://i.pinimg.com/736x/88/9f/2e/889f2e495168b123bd2a34a7e43a2aaa.jpg"
+    },
+    {
+      "name": "Uma Thurman",
+      "photo": "https://i.pinimg.com/1200x/10/5e/0a/105e0a2f05a65450a1f7176fd9fca8f2.jpg"
+    }
+  ],
+  "runtime": "2h 34m",
+  "released": "1994"
+},
+{
+  "id": 17,
+  "tmdb_id": 299536,
+  "title": "Avengers: Infinity War",
+  "year": "2018",
+  "genre": "Action Sci-Fi",
+  "poster": "https://i.pinimg.com/736x/2f/bf/02/2fbf02248319c6e9152b079234b63fa4.jpg",
+  "backdrop": "https://i.pinimg.com/736x/2f/bf/02/2fbf02248319c6e9152b079234b63fa4.jpg",
+  "trailer": "6ZfuNTqbHE8",
+  "description": "The Avengers assemble to stop Thanos from collecting the Infinity Stones and wiping out half the universe.",
+  "castDetail": [
+    {
+      "name": "Robert Downey Jr.",
+      "photo": "https://i.pinimg.com/736x/41/24/c8/4124c88a935584a275167d8d3a70c4ea.jpg"
+    },
+    {
+      "name": "Chris Evans",
+      "photo": "https://i.pinimg.com/736x/1f/ea/95/1fea95d7c5cdc0e01a66dde7372c4599.jpg"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "photo": "https://i.pinimg.com/736x/5a/07/35/5a0735183537c206c55cf327aa4154f9.jpg"
+    }
+  ],
+  "runtime": "2h 29m",
+  "released": "2018"
+},
+
+{
+  "id": 18,
+  "tmdb_id": 122,
+  "title": "The Lord of the Rings: The Return of the King",
+  "year": "2003",
+  "genre": "Adventure Fantasy",
+  "poster": "https://i.pinimg.com/1200x/16/45/9b/16459b5858edf81a707da0161d8eaea1.jpg",
+  "backdrop":"https://i.pinimg.com/1200x/44/d7/c9/44d7c94ba175cff79976e6a46c87d48b.jpg",
+  "trailer": "r5X-hFf6Bwo",
+  "description": "Frodo and Sam reach Mount Doom while the rest of the fellowship battle Sauron’s armies.",
+  "castDetail": [
+    {
+      "name": "Elijah Wood",
+      "photo": "https://i.pinimg.com/1200x/0d/3b/b7/0d3bb7b09307270217e3064dfe5477c1.jpg"
+    },
+    {
+      "name": "Viggo Mortensen",
+      "photo": "https://i.pinimg.com/736x/2e/56/65/2e566524f1710d007819ae46617e00e2.jpg"
+    },
+    {
+      "name": "Ian McKellen",
+      "photo": "https://i.pinimg.com/736x/70/cd/5a/70cd5aaa3a381ed308b9ced225e7bc74.jpg"
+    }
+  ],
+  "runtime": "3h 21m",
+  "released": "2003"
+},
+{
+  "id": 19,
+  "tmdb_id": 27205,
+  "title": "Inception",
+  "year": "2010",
+  "genre": "Sci-Fi Thriller",
+  "poster": "https://i.pinimg.com/1200x/b0/ae/a4/b0aea49646879a043ad9f6ec3002e99f.jpg",
+  "backdrop":"https://i.pinimg.com/736x/5c/e3/5a/5ce35a87a0a4e2682eb622fceaef503e.jpg",
+  "trailer": "YoHD9XEInc0",
+  "description": "A thief enters people’s dreams to steal secrets but is offered redemption for a near-impossible task.",
+  "castDetail": [
+    {
+      "name": "Leonardo DiCaprio",
+      "photo": "https://i.pinimg.com/1200x/ee/a7/25/eea7250a18bd8e8763ab8e84cda4c227.jpg"
+    },
+    {
+      "name": "Joseph Gordon-Levitt",
+      "photo": "https://i.pinimg.com/1200x/21/7c/69/217c695f822c74841fb0da939ddafd01.jpg"
+    },
+    {
+      "name": "Elliot Page",
+      "photo": "https://i.pinimg.com/736x/b2/c9/77/b2c977a12fce515b4f5e8039fda884e3.jpg"
+    }
+  ],
+  "runtime": "2h 28m",
+  "released": "2010"
+},
+{
+  "id": 20,
+  "tmdb_id": 24428,
+  "title": "The Avengers",
+  "year": "2012",
+  "genre": "Action Sci-Fi",
+  "poster": "https://i.pinimg.com/1200x/5f/53/b7/5f53b72afed403571e67ba002a67e7e3.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/5f/53/b7/5f53b72afed403571e67ba002a67e7e3.jpg",
+  "trailer": "eOrNdBpGMv8",
+  "description": "Earth’s mightiest heroes unite to stop Loki from unleashing an alien invasion.",
+  "castDetail": [
+
+    {
+      "name": "Robert Downey Jr.",
+      "photo": "https://i.pinimg.com/736x/3c/7e/e4/3c7ee455422fb47630562dc714407727.jpg"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "photo": "https://i.pinimg.com/1200x/c0/39/0f/c0390f38717173c4d89dbe02c3408fad.jpg"
+    },
+    
+    {
+      "name": "Chris Evans",
+      "photo": "https://imgs.search.brave.com/Ht6ckhZzBBpJVDKeRLo9TL-4zk92zQ1hQ3NBCzuTm50/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1UUTNNalE0/TlRReU0xNUJNbDVC/YW5CblhrRnRaVGN3/T1RZMk9UWTNOd0BA/Ll9WMV9RTDc1X1VY/ODIwXy5qcGc"
+    }
+  ],
+  "runtime": "2h 23m",
+  "released": "2012"
+},
+{
+  "id": 21,
+  "tmdb_id": 118340,
+  "title": "Guardians of the Galaxy",
+  "year": "2014",
+  "genre": "Adventure Comedy",
+  "poster": "https://i.pinimg.com/1200x/5a/78/75/5a7875ac6c9338c9dcbac68c36bb4bb4.jpg",
+  "backdrop": "https://i.pinimg.com/736x/bb/24/bf/bb24bf9d829dd76ecc833cfab1d4402f.jpg",
+  "trailer": "d96cjJhvlMA",
+  "description": "A group of intergalactic criminals teams up to stop a fanatical villain.",
+  "castDetail": [
+    {
+      "name": "Chris Pratt",
+      "photo": "https://i.pinimg.com/1200x/d1/27/a2/d127a24ab2a19c3c0fec7a529093b8d2.jpg"
+    },
+    {
+      "name": "Zoe Saldana",
+      "photo": "https://i.pinimg.com/736x/9a/31/5b/9a315b27bc86dd7d20bc7d53a42984e1.jpg"
+    },
+    {
+      "name": "Dave Bautista",
+      "photo": "https://i.pinimg.com/1200x/0b/4c/48/0b4c48af1efea348b275637f194fc237.jpg"
+    }
+  ],
+  "runtime": "2h 1m",
+  "released": "2014"
+},
+{
+  "id": 22,
+  "tmdb_id": 597,
+  "title": "Titanic",
+  "year": "1997",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/736x/89/ae/b0/89aeb01b7dbc5f7de08d1fa71c6b424f.jpg",
+  "backdrop":"https://i.pinimg.com/1200x/47/2e/43/472e43466943ed1f251a6ceb28209a50.jpg",
+  "trailer": "2e-eXJ6HgkQ",
+  "description": "A wealthy woman and a poor artist fall in love aboard the doomed RMS Titanic.",
+  "castDetail": [
+    {
+      "name": "Leonardo DiCaprio",
+      "photo": "https://i.pinimg.com/736x/3a/e8/d7/3ae8d749279be7cb3c467cb2167d2da9.jpg"
+    },
+    {
+      "name": "Kate Winslet",
+      "photo": "https://i.pinimg.com/1200x/ba/34/8d/ba348d1251bf9a9c6ab5b4c853eda7e4.jpg"
+    },
+    {
+      "name": "Billy Zane",
+      "photo": "https://i.pinimg.com/1200x/ab/e8/03/abe803bf63778bf1e962f07cf9edf186.jpg"
+    }
+  ],
+  "runtime": "3h 14m",
+  "released": "1997"
+},
+{
+  "id": 23,
+  "tmdb_id": 324857,
+  "title": "Spider-Man: Into the Spider-Verse",
+  "year": "2018",
+  "genre": "Animation Action",
+  "poster": "https://i.pinimg.com/736x/f1/03/16/f10316c9127cea5e69fe0ab7794c47fc.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/40/48/10/404810acbf8bec36ce05f906e893f026.jpg",
+  "trailer": "g4Hbz2jLxvQ",
+  "description": "Teenager Miles Morales becomes Spider-Man and meets other Spider-People from parallel universes.",
+  "castDetail": [
+    {
+      "name": "Shameik Moore",
+      "photo": "https://i.pinimg.com/736x/a3/c1/95/a3c195186b3bc03001110bbc827beaf0.jpg"
+    },
+    {
+      "name": "Hailee Steinfeld",
+      "photo": "https://cdn.mos.cms.futurecdn.net/9vDUtgyJkU8W3LpkN5LZFZ.jpg"
+    },
+    {
+      "name": "Jake Johnson",
+      "photo": "https://i.pinimg.com/1200x/aa/ea/fc/aaeafc06b77a46b18b9f13a959aa46b6.jpg"
+    }
+  ],
+  "runtime": "1h 57m",
+  "released": "2018"
+},
+{
+  "id": 24,
+  "tmdb_id": 1396,
+  "title": "Taken",
+  "year": "2008",
+  "genre": "Action Thriller",
+  "poster": "https://i.pinimg.com/1200x/8d/b8/27/8db827526f1bba595734fbd321593914.jpg",
+  "backdrop": "https://i.pinimg.com/736x/ef/96/65/ef96658c7f0a125ad579558bd5d1c4e9.jpg",
+  "trailer": "XK9zL0ze9O4",
+  "description": "A former CIA agent uses his skills to rescue his kidnapped daughter.",
+  "castDetail": [
+    {
+      "name": "Liam Neeson",
+      "photo": "https://halifaxbloggers.ca/flawintheiris/wp-content/uploads/sites/7/2015/01/article-2348048-15539345000005DC-106_634x427.jpg"
+    },
+    {
+      "name": "Maggie Grace",
+      "photo": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/photo/M7owNAvXG8482dWCUeXKnZKFobUmXy.jpg"
+    },
+    {
+      "name": "Xander Berkeley",
+      "photo": "https://i.pinimg.com/736x/77/66/0c/77660cefc0111ccf0e84954b4b1418f3.jpg"
+    }
+  ],
+  "runtime": "1h 33m",
+  "released": "2008"
+},
+{
+  "id": 25,
+  "tmdb_id": 424,
+  "title": "Schindler's List",
+  "year": "1993",
+  "genre": "Historical Drama",
+  "poster": "https://i.pinimg.com/1200x/b8/b4/09/b8b409a970676499780788407dc0cdd7.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/b5/04/37/b5043773398bd20e105afc3a418ad7ce.jpg",
+  "trailer": "gG22XNhtnoY",
+  "description": "The true story of Oskar Schindler, who saved over a thousand Jews during the Holocaust.",
+  "castDetail": [
+    {
+      "name": "Liam Neeson",
+      "photo": "https://i.pinimg.com/1200x/ec/cf/91/eccf917b34ef5e4c50a46673568e9c41.jpg"
+    },
+    {
+      "name": "Ben Kingsley",
+      "photo": "https://i.pinimg.com/736x/39/53/e8/3953e896a651e337689f7cd2f60ad208.jpg"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "photo": "https://i.pinimg.com/1200x/d0/45/b0/d045b021cf4e37aed2b7fbb19d34012e.jpg"
+    }
+  ],
+  "runtime": "3h 15m",
+  "released": "1993"
+},
+{
+  "id": 26,
+  "tmdb_id": 807,
+  "title": "Se7en",
+  "year": "1995",
+  "genre": "Crime Thriller",
+  "poster": "https://i.pinimg.com/736x/dd/58/4f/dd584f1aa0f067918c693bc4ba06afd3.jpg",
+  "backdrop": "https://i.pinimg.com/736x/51/61/d3/5161d355306c6de1c64091c6b2d0ed8c.jpg",
+  "trailer": "znmZoVkCjpI",
+  "description": "Two detectives hunt a serial killer whose crimes follow the seven deadly sins.",
+  "castDetail": [
+    {
+      "name": "Brad Pitt",
+      "photo": "https://i.pinimg.com/736x/74/0a/7b/740a7b46d9558c957dade0ce8f3bdad6.jpg"
+    },
+    {
+      "name": "Morgan Freeman",
+      "photo": "https://i.pinimg.com/736x/6b/6d/49/6b6d49a50a12acada8314807626f8d9c.jpg"
+    },
+    {
+      "name": "Kevin Spacey",
+      "photo": "https://i.pinimg.com/1200x/a1/52/51/a152516ede7f5952508a2eb0bfbbcf70.jpg"
+    }
+  ],
+  "runtime": "2h 7m",
+  "released": "1995"
+},
+{
+  "id": 27,
+  "tmdb_id": 272,
+  "title": "Batman Begins",
+  "year": "2005",
+  "genre": "Action Crime",
+  "poster": "https://i.pinimg.com/1200x/6b/51/89/6b51893becbe7a0ffc1c854004682ea7.jpg",
+  "backdrop": "https://i.pinimg.com/736x/ff/79/ee/ff79ee33db69c3f04d5d9bdac1f0dbf5.jpg",
+  "trailer": "neY2xVmOfUM",
+  "description": "The origin story of Bruce Wayne as he transforms into Batman to fight Gotham’s corruption.",
+  "castDetail": [
+    {
+      "name": "Christian Bale",
+      "photo": "https://i.pinimg.com/1200x/0f/99/3e/0f993eda3fd8e3f322c370bdba4899a4.jpg"
+    },
+    {
+      "name": "Michael Caine",
+      "photo": "https://i.pinimg.com/1200x/c7/91/50/c79150c3fc7a8ce1a360861bbdc30d60.jpg"
+    },
+    {
+      "name": "Katie Holmes",
+      "photo": "https://i.pinimg.com/736x/2d/02/84/2d02842a871fcd98e04a3f3f72d6a032.jpg"
+    }
+  ],
+  "runtime": "2h 20m",
+  "released": "2005"
+},
+
+{
+  "id": 28,
+  "tmdb_id": 1359,
+  "title": "American Psyco",
+  "year": "2000",
+  "genre": "Thriller",
+  "poster": "https://i.pinimg.com/736x/3b/6c/b9/3b6cb9c9a7d42f1f6b6927406ef72d7a.jpg",
+  "backdrop": "https://i.pinimg.com/736x/95/23/5b/95235b03b99277c932ad252bcce90c9a.jpg",
+  "trailer": "5YnGhW4UEhc",
+  "description": "A wealthy New York banker hides a violent alter ego as his sanity unravels.",
+  "castDetail": [
+    {
+      "name": "Christian Bale",
+      "photo": "https://i.pinimg.com/736x/82/b9/11/82b91159cde1cee91f5a74980639ece6.jpg"
+    },
+    {
+      "name": "Jared Leto",
+      "photo": "https://i.pinimg.com/1200x/60/4a/49/604a49eaf4ad888aa37ef986044581d5.jpg"
+    },
+    {
+      "name": "Willem Dafoe",
+      "photo": "https://i.pinimg.com/1200x/dd/2c/b5/dd2cb507408fff8ee8f240c970e2de39.jpg"
+    }
+  ],
+  "runtime": "1h 41m",
+  "released": "2000"
+},
+{
+  "id": 29,
+  "tmdb_id": 245891,
+  "title": "John Wick",
+  "year": "2014",
+  "genre": "Action Thriller",
+  "poster": "https://i.pinimg.com/736x/3b/07/f8/3b07f8f0dbc9c1679a6a82fae712c9a1.jpg",
+  "backdrop": "https://i.pinimg.com/736x/94/15/78/9415787843ce5c16c785dd91e62e1417.jpg",
+  "trailer": "C0BMx-qxsP4",
+  "description": "A retired hitman returns to the criminal underworld to hunt down the men who stole his car and killed his beloved dog, unleashing unstoppable vengeance.",
+  "castDetail": [
+    {
+      "name": "Keanu Reeves",
+      "photo": "https://imgs.search.brave.com/juQt_2IOHb5Njun88968Oy5n8KIe0aFkvqncPJhORDg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ldy5j/b20vdGhtYi9ESlpi/ejF6TmJZUFZqVjlY/STJYY2NJU3pja3c9/LzIwMDB4MC9maWx0/ZXJzOm5vX3Vwc2Nh/bGUoKTptYXhfYnl0/ZXMoMTUwMDAwKTpz/dHJpcF9pY2MoKS9L/ZWFudS1SZWV2ZXMt/Sm9obi1XaWNrLTA3/MTUyMi0xLTM4Nzhh/N2NmODg5YjQyMjhh/N2IyMGE4NDI4ZjQ4/YTlmLmpwZw"
+    },
+    {
+      "name": "Michael Nyqvist",
+      "photo": "https://imgs.search.brave.com/zba9MENRRbcu9glrPWqGwte4rWfyXOXnA5uv_VbL4OM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ici53/ZWIuaW1nMy5hY3N0/YS5uZXQvcl8xMjgw/XzcyMC9waWN0dXJl/cy8xNC8xMC8yNy8x/MC81OS8xNDA2ODIu/anBn"
+    },
+    {
+      "name": "Ian McShane",
+      "photo": "https://imgs.search.brave.com/SInwxd8BkDOZrad_kbPRP2eiDu7b7RPUh5K-CCvLjcE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9md21l/ZGlhLmZhbmRvbXdp/cmUuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIzLzA3LzE4/MDEwNjEzL0pvaG4t/V2ljay00LUlhbi1N/Y1NoYW5lLTkxMy5q/cGc"
+    }
+  ],
+  "runtime": "1h 41m",
+  "released": "2014"
+}
+,
+{
+  "id": 30,
+  "tmdb_id": 120,
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "year": "2001",
+  "genre": "Adventure Fantasy",
+  "poster": "https://i.pinimg.com/736x/30/d8/80/30d880f5a4a26dfdabe49706760a7210.jpg",
+  "backdrop":"https://i.pinimg.com/1200x/b5/3f/69/b53f6924d631ff1a82abeacc963dd0b8.jpg",
+  "trailer": "V75dMMIW2B4",
+  "description": "Frodo begins his journey to destroy the One Ring with the help of eight companions.",
+  "castDetail": [
+    {
+      "name": "Elijah Wood",
+      "photo": "https://i.pinimg.com/736x/21/d8/c4/21d8c476619fb4ec24a8dcef7b5c9dd6.jpg"
+    },
+    {
+      "name": "Ian McKellen",
+      "photo": "https://i.pinimg.com/1200x/84/a5/aa/84a5aa945a103d02466f7c3fde502836.jpg"
+    },
+    {
+      "name": "Viggo Mortensen",
+      "photo": "https://i.pinimg.com/1200x/a8/53/bf/a853bfbfebf7f40e5d90f9ab0a84bc37.jpg"
+    }
+  ],
+  "runtime": "2h 58m",
+  "released": "2001"
+},
+
+{
+  "id": 31,
+  "tmdb_id": 68818,
+  "title": "Murder 2",
+  "year": "2011",
+  "genre": "Crime Thriller",
+  "poster": "https://images.plex.tv/photo?size=medium-240&scale=2&url=https%3A%2F%2Fmetadata-static.plex.tv%2Fe%2Fgracenote%2Fe09bf136a495b253073b7aa8cfd22ea9.jpg",
+  "backdrop":"https://imgs.search.brave.com/LC9YA7nENztedStoy9ienPg6QBJVq2EljNF3tNqhhaU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QllXUmxNV013/TURJdE9EVmpZUzAw/TVRBeExUZzRObUV0/TW1GalpHUmlaR0Ux/WW1JM1hrRXlYa0Zx/Y0djQC5qcGc",
+  "trailer": "vQ3um1vJeNQ",
+  "description": "An ex-cop working as a pimp is hired to find missing sex workers, leading him to a brutal serial killer.",
+  "castDetail": [
+    {
+      "name": "Emraan Hashmi",
+      "photo": "assets/posters/arjun.jpg"
+    },
+    {
+      "name": "Jacqueline Fernandez",
+      "photo": "https://imgs.search.brave.com/d0dTKobnbCQSX_SRyS5Feh0ryWHyKYQ2RpnYyiTfmHo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS9waG90by84NzYw/ODA4LmNtcz9pbWdz/aXplPTEwMzY1OA"
+    },
+    {
+      "name": "Prashant Narayanan",
+      "photo": "https://imgs.search.brave.com/C8GSjjAimJuhgaojQKcQPSMQnaC9HzeeNNwpAmb7qPY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubmV3czE4LmNv/bS9zdGF0aWMtZ3Vq/dS91cGxvYWRzLzIw/MjUvMDYvMTc0OTYw/NjQ0OF84LTIwMjUt/MDYtNTAxZTkxYTNl/OWVkNDdmNTc0N2E3/MGM5NGU0MjI4YjAu/anBnP2ltcG9saWN5/PXdlYnNpdGUmd2lk/dGg9ODI3JmhlaWdo/dD02MjA"
+    }
+  ],
+  "runtime": "2h 6m",
+  "released": "2011"
+},
+{
+  "id": 32,
+  "tmdb_id": 13777,
+  "title": "Jannat",
+  "year": "2008",
+  "genre": "Crime Romance",
+  "poster": "https://i.pinimg.com/1200x/77/8b/6a/778b6a392ce40472e87e2a979db92bb2.jpg",
+  "backdrop": "https://i.pinimg.com/736x/3a/30/49/3a30490887791c2732cb34f1da8965e1.jpg",
+  "trailer": "K9n-aMlLJlo",
+  "description": "A small-time gambler rises in the world of cricket match-fixing but risks everything for love.",
+  "castDetail": [
+    {
+      "name": "Emraan Hashmi",
+      "photo": "https://imgs.search.brave.com/EGpQzjdX2atY9Q4xCDOn4znyf4hkc1tzP6uRFht4ojw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/NC5ib2xseXdvb2Ro/dW5nYW1hLmluL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE4LzA1/LzEwLVllYXJzLU9m/LUphbm5hdC1UaGUt/ZmlsbS10aGF0LXNh/dmVkLUVtcmFhbi1I/YXNobWklRTIlODAl/OTlzLWNhcmVlci0x/LmpwZw"
+    },
+    {
+      "name": "Sonal Chauhan",
+      "photo": "assets/posters/sonal.jpg"
+    },
+    {
+      "name": "Javed Sheikh",
+      "photo": "assets/posters/javed.jpg"
+    }
+  ],
+  "runtime": "2h 20m",
+  "released": "2008"
+},
+
+{
+  "id": 33,
+  "tmdb_id": 13784,
+  "title": "Dhoom 2",
+  "year": "2006",
+  "genre": "Action Thriller",
+  "poster": "https://i.pinimg.com/1200x/5d/28/bb/5d28bb1e361e885f1419231340077b7c.jpg",
+  "backdrop":"https://i.pinimg.com/736x/93/67/12/936712f7115403365f73f7609f39b83f.jpg",
+  "trailer": "oRIIeyIa6nE",
+  "description": "A daring international thief challenges two Mumbai cops in a high-stakes chase across continents.",
+  "castDetail": [
+    {
+      "name": "Hrithik Roshan",
+      "photo": "https://i.pinimg.com/1200x/ab/31/86/ab3186172891f8cb349cbb4183a6c13c.jpg"
+    },
+    {
+      "name": "Aishwarya Rai Bachchan",
+      "photo": "https://i.pinimg.com/736x/82/dd/81/82dd81c559872d56808ccbc18ab34cf7.jpg"
+    },
+    {
+      "name": "Abhishek Bachchan",
+      "photo": "https://imgs.search.brave.com/wKDFq0eo3XMWemTD8GdWYPUDVjLagd8Rzubew17AW1Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW5kaWFuZXhw/cmVzcy5jb20vMjAy/My8wMy9hYmhpc2hl/ay1iYWNoY2hhbi5q/cGc_dz02NDA"
+    }
+  ],
+  "runtime": "2h 32m",
+  "released": "2006"
+},
+{
+  "id": 34,
+  "tmdb_id": 82702,
+  "title": "Kick",
+  "year": "2014",
+  "genre": "Action Comedy",
+  "poster": "https://imgs.search.brave.com/czbk9mBkmraC_Ou78-Thg5L7v8Yty1elNisDFU-2Ghc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS9waG90by8zNjYw/ODA4NC5jbXM_aW1n/c2l6ZT0xNDA3ODM",
+  "backdrop":"https://i.pinimg.com/736x/c6/c3/4e/c6c34e3a09a62cf70f96e79d59603b25.jpg",
+  "trailer": "u-j1nx_HY5o",
+  "description": "A thrill-seeking daredevil becomes a masked thief but hides a deeper purpose behind his actions.",
+  "castDetail": [
+    {
+      "name": "Salman Khan",
+      "photo": "https://i.pinimg.com/1200x/9f/2f/56/9f2f566cce1d4fc74b8ca6774f71e0a0.jpg"
+    },
+    {
+      "name": "Jacqueline Fernandez",
+      "photo": "https://i.pinimg.com/736x/b1/4a/2e/b14a2ead444a246ee9c14a70f334b6ae.jpg"
+    },
+    {
+      "name": "Nawazuddin Siddiqui",
+      "photo": "https://i.pinimg.com/736x/57/19/30/571930cd8142e82a091feb9c14f904aa.jpg"
+    }
+  ],
+  "runtime": "2h 26m",
+  "released": "2014"
+},
+{
+  "id": 35,
+  "tmdb_id": 74174,
+  "title": "Singham",
+  "year": "2011",
+  "genre": "Action Drama",
+  "poster": "https://i.pinimg.com/1200x/9c/44/42/9c44420925a139217b34ae5bb882707d.jpg",
+  "backdrop":"https://imgs.search.brave.com/Weao-vzrsSFPbSAV7ppLHVpMexbynEtF1m1dYAvuRno/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QllUWTJOREU0/TlRZdE1ESTJZaTAw/TXpsbUxXSm1aalF0/TVRrM01XUXhaV1Uw/WkdFMlhrRXlYa0Zx/Y0djQC5qcGc",
+  "trailer": "mp-XqCrCi6I",
+  "description": "A righteous cop stands up against a powerful criminal-politician in Goa.",
+  "castDetail": [
+    {
+      "name": "Ajay Devgn",
+      "photo": "https://i.pinimg.com/736x/84/dd/da/84ddda1080163b11dc6065a0352763f5.jpg"
+    },
+    {
+      "name": "Kajal Aggarwal",
+      "photo": "assets/posters/kajal.jpg"
+    },
+    {
+      "name": "Prakash Raj",
+      "photo": "https://imgs.search.brave.com/WUf4FKH5yAY3E9wdgz8j2TbNORmi0-eyc_vsINyqBQ0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/d2hvLXdhcy10aGUt/YmV0dGVyLWFudGFn/b25pc3QtdjAtaHd2/N2YyaDlteGVjMS5q/cGc_d2lkdGg9NTQw/JmZvcm1hdD1wanBn/JmF1dG89d2VicCZz/PWVlOWYzMzFmOGVl/OTE3NzA2NjU1ZTg5/NmNhNjJmYThiZGMx/M2YzMjk"
+    }
+  ],
+  "runtime": "2h 23m",
+  "released": "2011"
+},
+{
+  "id": 36,
+  "tmdb_id": 240832,
+  "title": "Kabir Singh",
+  "year": "2019",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/736x/5c/13/fe/5c13fe6e93796c8e2682bb08c5e37cba.jpg",
+  "backdrop":"https://i.pinimg.com/736x/7f/55/cd/7f55cd792af8b85cdd406b07b6c91eaa.jpg",
+  "trailer": "RiANSSgCuJk",
+  "description": "A hot-headed surgeon spirals into self-destruction after losing the love of his life.",
+  "castDetail": [
+    {
+      "name": "Shahid Kapoor",
+      "photo": "https://i.pinimg.com/1200x/6a/fc/8e/6afc8e10e5f6252f949d614897eae8eb.jpg"
+    },
+    {
+      "name": "Kiara Advani",
+      "photo": "https://i.pinimg.com/736x/08/8b/7f/088b7f290403f3d9450d32328e6754f5.jpg"
+    },
+    {
+      "name": "Soham Majumdar",
+      "photo": "https://imgs.search.brave.com/wJq-5yC7LDX32CiqoCbvK4uAkOMdfDetKgWoevnHn7k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMudGVsZWdyYXBo/aW5kaWEuY29tL3Rl/bGVncmFwaC8yZmM5/MDc0Yy1iZDAzLTRm/MGMtODM2MS02YTEx/YmMxNDdmYjcuanBn"
+    }
+  ],
+  "runtime": "2h 52m",
+  "released": "2019"
+},
+{
+  "id": 37,
+  "tmdb_id": 49009,
+  "title": "3 Idiots",
+  "year": "2009",
+  "genre": "Comedy Drama",
+  "poster": "https://i.pinimg.com/1200x/17/b3/5b/17b35b00f1e64d55dd43311c72fcdec2.jpg",
+  "backdrop":"https://i.pinimg.com/736x/08/93/74/0893747ad8c258831d7181f5402d9a07.jpg",
+  "trailer": "K0eDlFX9GMc",
+  "description": "Three engineering students navigate friendship, pressure, and passion in a prestigious college.",
+  "castDetail": [
+    {
+      "name": "Aamir Khan",
+      "photo": "https://i.pinimg.com/1200x/50/19/ce/5019ce4b446b86e3ca2261a769f39779.jpg"
+    },
+    {
+      "name": "R. Madhavan",
+      "photo": "https://i.pinimg.com/1200x/36/c2/13/36c213ed8da297159ea1b65d7bcbe306.jpg"
+    },
+    {
+      "name": "Sharman Joshi",
+      "photo": "https://i.pinimg.com/1200x/80/bb/80/80bb8068c008d54634849d7779272027.jpg"
+    }
+  ],
+  "runtime": "2h 51m",
+  "released": "2009"
+},
+{
+  "id": 38,
+  "tmdb_id": 28648,
+  "title": "Zindagi Na Milegi Dobara",
+  "year": "2011",
+  "genre": "Drama Adventure",
+  "poster": "https://i.pinimg.com/1200x/f4/27/fa/f427faf120a0fe296be5167bc87636df.jpg",
+  "backdrop":"https://i.pinimg.com/1200x/c8/3e/53/c83e53c32d2c6f5711e7b1f64fd9931a.jpg",
+  "trailer": "FJrpcDgC3zU",
+  "description": "Three friends take a road trip across Spain that changes their lives forever.",
+  "castDetail": [
+    {
+      "name": "Hrithik Roshan",
+      "photo": "https://i.pinimg.com/736x/e7/4a/87/e74a87343e543e443dbfd9a1d895ca72.jpg"
+    },
+    {
+      "name": "Farhan Akhtar",
+      "photo": "https://i.pinimg.com/736x/d4/40/b6/d440b6492d677502ffb41d6aa9615b77.jpg"
+    },
+    {
+      "name": "Abhay Deol",
+      "photo": "https://imgs.search.brave.com/gOhcgX9Jr7c7hf--qyJRuSzP2JH107UXOyfQeZckDis/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW5kaWFuZXhw/cmVzcy5jb20vMjAy/NC8wNC96bm1kLmpw/ZWc_dz02NDA"
+    }
+  ],
+  "runtime": "2h 35m",
+  "released": "2011"
+},
+{
+  "id": 39,
+  "tmdb_id": 32963,
+  "title": "Don 2",
+  "year": "2011",
+  "genre": "Action Thriller",
+  "poster": "https://i.pinimg.com/1200x/71/f1/25/71f125bfaae9e52a2dcd172158e49e66.jpg",
+  "backdrop":"https://i.pinimg.com/1200x/5c/da/dd/5cdadd703006885b2b8928b8dd12e16a.jpg",
+  "trailer": "_X5w-6PqoZ0",
+  "description": "Don returns to evade law enforcement and execute the biggest heist of his career.",
+  "castDetail": [
+    {
+      "name": "Shah Rukh Khan",
+      "photo": "https://i.pinimg.com/736x/17/20/4f/17204f4fabc4cf8d3f437951995242de.jpg"
+    },
+    {
+      "name": "Priyanka Chopra",
+      "photo": "https://imgs.search.brave.com/4b3SYY2rVWcT9iwiSmqYPqAxKT3Vlnrqp0lzizTbKEw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9UWm1ZakZr/TTJJdFkyTmpNQzAw/WkRNd0xXRXlZMkV0/WldFeU0yVmtOemhs/TldVMlhrRXlYa0Zx/Y0djQC5qcGc"
+    },
+    {
+      "name": "Boman Irani",
+      "photo": "https://imgs.search.brave.com/rzqNZCmo3JrSNJT65NrX1pbMxFz8yf11FDls5wvKWNU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5UUXhZbVU1/WWpRdE1tVTNOeTAw/WVRSbExXRXpNRGN0/TURjeE9EazBOekZt/TlRnNVhrRXlYa0Zx/Y0djQC5qcGc"
+    }
+  ],
+  "runtime": "2h 28m",
+  "released": "2011"
+},
+{
+  "id": 40,
+  "tmdb_id": 3040,
+  "title": "Krrish",
+  "year": "2006",
+  "genre": "Sci-Fi Action",
+  "poster": "https://i.pinimg.com/1200x/3c/91/60/3c91602c0a65a29a628c97f1a069e45f.jpg",
+  "backdrop":"https://i.pinimg.com/1200x/91/26/f3/9126f391a1c7ef888020fcb2487066da.jpg",
+  "trailer": "3qa3L9rTEG0",
+  "description": "A young man with extraordinary powers becomes a superhero to protect the world.",
+  "castDetail": [
+    {
+      "name": "Hrithik Roshan",
+      "photo": "https://i.pinimg.com/1200x/29/85/37/298537c53d93f73f19ce6fcced07574d.jpg"
+    },
+    {
+      "name": "Priyanka Chopra",
+      "photo": "https://i.pinimg.com/736x/35/9c/d7/359cd720307daec6daa8b46a06a5266c.jpg"
+    },
+    {
+      "name": "Rekha",
+      "photo": "https://imgs.search.brave.com/-7QDeza_pRL48KBFYqfSNkwbuSZJseh8zvnMQDn0h-4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/d2h5LWktYmVsaWV2/ZS1rcnJpc2gtaXMt/YS10b3Atbm90Y2gt/c2VxdWVsLXRoZS1p/bmNyZWRpYmxlLXYw/LXFlNXJvOWIwNWpy/YjEuanBnP3dpZHRo/PTY0MCZjcm9wPXNt/YXJ0JmF1dG89d2Vi/cCZzPTk3MDEwM2Ri/MTdiODNlYjFmMjYx/MmE4OTcxODQ0MWMy/ZjhkOTJhZmU"
+    }
+  ],
+  "runtime": "2h 54m",
+  "released": "2006"
+},
+{
+  "id": 41,
+  "tmdb_id": 165,
+  "title": "Kal Ho Naa Ho",
+  "year": "2003",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/736x/1c/51/17/1c5117aead64e6614a8e5545e9c4a98a.jpg",
+  "backdrop":"https://i.pinimg.com/736x/98/3e/3e/983e3e41b3e9541c2f2e02c6f81ca837.jpg",
+  "trailer": "tVMAQAsjsOU",
+  "description": "A terminally ill man helps a woman find love while keeping his feelings hidden.",
+  "castDetail": [
+    {
+      "name": "Shah Rukh Khan",
+      "photo": "https://i.pinimg.com/1200x/8f/5e/19/8f5e198dee2d04a33d89368fe2a2335a.jpg"
+    },
+    {
+      "name": "Saif Ali Khan",
+      "photo": "https://i.pinimg.com/1200x/68/e8/a0/68e8a03a8b7f444264404406133bd06f.jpg"
+    },
+    {
+      "name": "Preity Zinta",
+      "photo": "https://i.pinimg.com/736x/05/2c/43/052c4392865dabba1f5a92d052da8be6.jpg"
+    }
+  ],
+  "runtime": "3h 7m",
+  "released": "2003"
+},
+{
+  "id": 42,
+  "tmdb_id": 21069,
+  "title": "Bhool Bhulaiyaa",
+  "year": "2007",
+  "genre": "Horror Comedy",
+  "poster": "https://i.pinimg.com/736x/96/92/de/9692de3efc15f1a9d610bc8705c17252.jpg",
+  "backdrop":"https://i.pinimg.com/736x/83/c2/21/83c22179cc2aa956d8f4509f16e65eea.jpg",
+  "trailer": "ss-7iGf1xE8",
+  "description": "A psychiatrist investigates strange happenings in a haunted royal mansion.",
+  "castDetail": [
+    {
+      "name": "Akshay Kumar",
+      "photo": "https://imgs.search.brave.com/cWq115_drYyS3qmqW4fMBfl9nvQl9uIoGwoHb4zw9iA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aGluZHVzdGFudGlt/ZXMuY29tL2h0LWlt/Zy9pbWcvMjAyNS8w/MS8yMi81NTB4MzA5/L2JiXzFfMTczNzUy/NTMxMjY3NV8xNzM3/NTI1MzIyOTA1Lmpw/Zw"
+    },
+    {
+      "name": "Vidya Balan",
+      "photo": "https://i.pinimg.com/736x/d2/b8/d3/d2b8d32b9218d4ae3e60e55aa1a40bfb.jpg"
+    },
+    {
+      "name": "Shiney Ahuja",
+      "photo": "https://imgs.search.brave.com/hJtccRMrwGk31-SvE-ullNrMAIfTHqa4xyvRQyJ2aX0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJhY2Nlc3Mu/Y29tL2Z1bGwvODI2/NDcwOS5qcGc"
+    }
+  ],
+  "runtime": "2h 39m",
+  "released": "2007"
+},
+{
+  "id": 43,
+  "tmdb_id": 39324,
+  "title": "Agneepath",
+  "year": "2012",
+  "genre": "Action Drama",
+  "poster": "https://i.pinimg.com/736x/fc/67/6a/fc676a8207cd50b98898cad726200170.jpg",
+  "backdrop":"https://i.pinimg.com/736x/96/57/32/965732dc5699c6ab40abda7a65f49c89.jpg",
+  "trailer": "z0KPQstwMQw",
+  "description": "A young boy grows up to avenge his father's death and reclaim his dignity.",
+  "castDetail": [
+    {
+      "name": "Hrithik Roshan",
+      "photo": "https://imgs.search.brave.com/TbC5MA8-t6oAXnwzP2BMd8yRDonX-zllcTWo3tfQj4M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9HRTVaR1k0/TW1FdE56RTBNQzAw/WmpKaUxXSXlNbVF0/TldRMFpEUTRNVEZt/TXpCbFhrRXlYa0Zx/Y0djQC5qcGc"
+    },
+    {
+      "name": "Priyanka Chopra",
+      "photo": "https://i.pinimg.com/736x/8b/fe/64/8bfe64111f54c1557ca26fe1d4033192.jpg"
+    },
+    {
+      "name": "Sanjay Dutt",
+      "photo": "https://i.pinimg.com/1200x/ba/8e/c4/ba8ec49654cd15af04d1dd2d320e50e1.jpg"
+    }
+  ],
+  "runtime": "2h 54m",
+  "released": "2012"
+},
+{
+  "id": 44,
+  "tmdb_id": 284884,
+  "title": "Dilwale",
+  "year": "2015",
+  "genre": "Romantic Action",
+  "poster": "https://i.pinimg.com/736x/5d/af/7f/5daf7f459081c1c0d0218af412b2fe85.jpg",
+  "backdrop":"https://i.pinimg.com/736x/04/d1/82/04d1825020d41362e955af4d0c6697ff.jpg",
+  "trailer": "AHuOo1DLcRc",
+  "description": "Two lovers separated by crime and betrayal reunite after years through destiny.",
+  "castDetail": [
+    {
+      "name": "Shah Rukh Khan",
+      "photo": "https://i.pinimg.com/736x/32/cd/d7/32cdd7e4721b94804d14b1a78eb495ae.jpg"
+    },
+    {
+      "name": "Kajol",
+      "photo": "https://i.pinimg.com/736x/df/f3/19/dff31979a8817ff51c7a7303f5313763.jpg"
+    },
+    {
+      "name": "Varun Dhawan",
+      "photo": "https://i.pinimg.com/1200x/4f/2d/31/4f2d3168d80d3c66b486e88659de7292.jpg"
+    }
+  ],
+  "runtime": "2h 35m",
+  "released": "2015"
+},
+{
+  "id": 45,
+  "tmdb_id": 466282,
+  "title": "Tiger Zinda Hai",
+  "year": "2017",
+  "genre": "Action Drama",
+  "poster": "https://i.pinimg.com/736x/08/10/f0/0810f0d89fef6d34f5796f7cf116c453.jpg",
+  "backdrop":"https://i.pinimg.com/1200x/22/77/a4/2277a440f090585fc469ff7a263a5df1.jpg",
+  "trailer": "ePO5M5DE01I",
+  "description": "A RAW agent races against time to rescue nurses held hostage by a terrorist group.",
+  "castDetail": [
+    {
+      "name": "Salman Khan",
+      "photo": "https://imgs.search.brave.com/RB4A_kWLnCUjfbrCRhxL0khPVEo0Amy-IhVVRLWWpN0/rs:fit:860:0:0:0/g:ce/aHR0cDovL3d3dy55/YXNocmFqZmlsbXMu/Y29tL2ltYWdlcy9k/ZWZhdWx0LXNvdXJj/ZS9Nb3ZpZXMvVGln/ZXItWmluZGEtSGFp/L3NhbG1hbi1raGFu/LWluLXRpZ2VyLXpp/bmRhLWhhaTEzYjdh/NGEwMjZmNTZmN2Y5/ZjY0ZmYwYjAwMDkw/MzEzLmpwZz9zZnZy/c249Y2E0MmNiY2Nf/MA"
+    },
+    {
+      "name": "Katrina Kaif",
+      "photo": "https://i.pinimg.com/736x/37/2d/6e/372d6e426116a94481b1f568b4ca9bc7.jpg"
+    },
+    {
+      "name": "Paresh Rawal",
+      "photo": "https://imgs.search.brave.com/B0PdUYnqQ06YI7qCfuRRddm_rDsvMXR_1ny7RZKRNmQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTUuYm9sbHl3b29k/aHVuZ2FtYS5pbi93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNi8w/OS9UaWdlci1aaW5k/YS1IYWktMDA5Lmpw/Zw"
+    }
+  ],
+  "runtime": "2h 41m",
+  "released": "2017"
+},
+{
+  "id": 46,
+  "tmdb_id": 157,
+  "title": "Lagaan",
+  "year": "2001",
+  "genre": "Drama Sports",
+  "poster": "https://i.pinimg.com/1200x/79/cb/9b/79cb9b766239bb5fc661e113e08c500a.jpg",
+  "backdrop":"https://i.pinimg.com/736x/0b/9b/63/0b9b63ed2215cd611b7d8ec95f6be320.jpg",
+  "trailer": "rZPbpymefuE",
+  "description": "Villagers challenge British officers to a high-stakes cricket match to avoid oppressive taxes.",
+  "castDetail": [
+    {
+      "name": "Aamir Khan",
+      "photo": "https://i.pinimg.com/736x/64/3e/03/643e03d154cad8d610d3ce7075690f5a.jpg"
+    },
+    {
+      "name": "Gracy Singh",
+      "photo": "https://i.pinimg.com/474x/96/12/05/96120538e5a21657ad5dc1af80072a52.jpg"
+    },
+    {
+      "name": "Paul Blackthorne",
+      "photo": "https://imgs.search.brave.com/ilI9njza244sdnSXWeKR6ob6H51cZwQJva0t3TnZkUE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZG5haW5kaWEuY29t/L3NpdGVzL2RlZmF1/bHQvZmlsZXMvc3R5/bGVzL2Z1bGwvcHVi/bGljLzIwMjQvMDcv/MjYvMjY0MjcxMC11/bnRpdGxlZC1kZXNp/Z24tMjAyNC0wNy0y/NnQxMzE1MTguNjEx/LnBuZw"
+    }
+  ],
+  "runtime": "3h 44m",
+  "released": "2001"
+},
+{
+  "id": 47,
+  "tmdb_id": 857,
+  "title": "Swades",
+  "year": "2004",
+  "genre": "Drama",
+  "poster": "https://i.pinimg.com/1200x/0c/0b/c0/0c0bc0e5c66bb8a054e063d2a2c3d3da.jpg",
+  "backdrop":"https://i.pinimg.com/1200x/a0/1d/14/a01d14d5702f0cbe7b122a581a588077.jpg",
+  "trailer": "vc7AZNWvs0M",
+  "description": "A NASA engineer returns to India and finds purpose in uplifting a rural village.",
+  "castDetail": [
+    {
+      "name": "Shah Rukh Khan",
+      "photo": "https://i.pinimg.com/1200x/ec/2f/f1/ec2ff100605d7d688c996bc0eff1bf25.jpg"
+    },
+    {
+      "name": "Gayatri Joshi",
+      "photo": "https://i.pinimg.com/1200x/bf/1c/d5/bf1cd5f3564a1183aff54814993152fb.jpg"
+    },
+    {
+      "name": "Rajesh Vivek",
+      "photo": "https://imgs.search.brave.com/HawUzStooVT2pKl6ZU_OlyMpxhSkeeivUq1pGXUiwa8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZmlsbWliZWF0/LmNvbS9pbWcvcG9w/Y29ybi9wcm9maWxl/X3Bob3Rvcy9yYWpl/c2gtdml2ZWstMjAx/ODA2MjUxMTUwNDAt/NTU4LmpwZw"
+    }
+  ],
+  "runtime": "3h 8m",
+  "released": "2004"
+},
+{
+  "id": 48,
+  "tmdb_id": 634474,
+  "title": "Shershaah",
+  "year": "2021",
+  "genre": "Biographical War",
+  "poster": "https://i.pinimg.com/1200x/1b/e1/ae/1be1ae90bbd1849fbf454378740bd7af.jpg",
+  "backdrop":"https://i.pinimg.com/736x/d2/3d/3b/d23d3bf559fd651659f19d5326190392.jpg",
+  "trailer": "Q0FTXnefVBA",
+  "description": "The inspiring story of Captain Vikram Batra, who displayed unmatched courage in the Kargil War.",
+  "castDetail": [
+    {
+      "name": "Sidharth Malhotra",
+      "photo": "https://i.pinimg.com/736x/2a/56/10/2a56105779730a0a456634ae276e06cb.jpg"
+    },
+    {
+      "name": "Kiara Advani",
+      "photo": "https://i.pinimg.com/736x/a1/39/03/a13903aed573df906689104a5b1ced3a.jpg"
+    },
+    {
+      "name": "Shiv Panditt",
+      "photo": "https://imgs.search.brave.com/0eJFTGe-EGAkWZtbx8RJplu7lARTTl9oipVU3JwYy9s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5qTTRZekE0/TTJRdFpETTVOaTAw/TjJWbExXRTJNamN0/TjJZNVlqWXlaVGt6/TnpkbFhrRXlYa0Zx/Y0djQC5qcGc"
+    }
+  ],
+  "runtime": "2h 15m",
+  "released": "2021"
+},
+{
+  "id": 49,
+  "tmdb_id": 8355,
+  "title": "Devdas",
+  "year": "2002",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/1200x/af/20/e3/af20e37edf4bedd0f7163e616c20de25.jpg",
+  "backdrop":"https://i.pinimg.com/736x/1e/5f/dc/1e5fdc31174c4ee03812b583b39aec79.jpg",
+  "trailer": "8tuHQWGMQwY",
+  "description": "A wealthy young man descends into alcoholism after his true love is married off to someone else.",
+  "castDetail": [
+    {
+      "name": "Shah Rukh Khan",
+      "photo": "https://i.pinimg.com/1200x/7f/b3/7f/7fb37f2dad5497cd4da6d6286ab405a8.jpg"
+    },
+    {
+      "name": "Aishwarya Rai Bachchan",
+      "photo": "https://i.pinimg.com/736x/2d/71/a1/2d71a1da6a66551203459a41f6b97c84.jpg"
+    },
+    {
+      "name": "Madhuri Dixit",
+      "photo": "https://i.pinimg.com/1200x/4a/83/32/4a8332804b9e2476dfe82eee4ed1c31c.jpg"
+    }
+  ],
+  "runtime": "3h 5m",
+  "released": "2002"
+},
+{
+  "id": 50,
+  "tmdb_id": 10663,
+  "title": "Koi... Mil Gaya",
+  "year": "2003",
+  "genre": "Sci-Fi Drama",
+  "poster": "https://i.pinimg.com/736x/fc/d7/9e/fcd79ef14604af9481189cc40c91c9d2.jpg",
+  "backdrop":"https://i.pinimg.com/1200x/70/84/67/708467f522735fc683d3c8e9e52b9c5a.jpg",
+  "trailer": "IBpZH-CFgZ0",
+  "description": "A developmentally disabled young man befriends an alien who transforms his life.",
+  "castDetail": [
+    {
+      "name": "Hrithik Roshan",
+      "photo": "https://i.pinimg.com/1200x/91/64/46/916446a8c5d79be56437b1d0da6ac232.jpg"
+    },
+    {
+      "name": "Preity Zinta",
+      "photo": "https://i.pinimg.com/1200x/fd/b1/32/fdb132c6897b95987f0b95749033fc07.jpg"
+    },
+    {
+      "name": "Rekha",
+      "photo": "https://images.indianexpress.com/2023/08/Hrithik-Roshan-Rekha-Koi...-Mil-Gaya.jpg?w=640"
+    }
+  ],
+  "runtime": "2h 57m",
+  "released": "2003"
+},
+{
+  "id": 51,
+  "tmdb_id": 335795,
+  "title": "Bajrangi Bhaijaan",
+  "year": "2015",
+  "genre": "Drama Adventure",
+  "poster": "https://i.pinimg.com/1200x/45/cb/4a/45cb4a8d3dd51482b503551f42b4005f.jpg",
+  "backdrop": "https://i.pinimg.com/736x/80/6e/d3/806ed337c99922dbc13cd3f41b41602b.jpg",
+  "trailer": "4nwAra0mz_Q",
+  "description": "A compassionate man helps a mute Pakistani girl find her way home.",
+  "castDetail": [
+    {
+      "name": "Salman Khan",
+      "photo": "https://i.pinimg.com/736x/2d/f0/ee/2df0ee7225d180c4ba6f6f70f19e2df4.jpg"
+    },
+    {
+      "name": "Harshaali Malhotra",
+      "photo": "https://i.pinimg.com/736x/3a/09/1b/3a091b21a54c626422838fb7089a6fb1.jpg"
+    },
+    {
+      "name": "Nawazuddin Siddiqui",
+      "photo": "https://i.pinimg.com/736x/4b/20/fd/4b20fd3694d81645a73db47514ba1192.jpg"
+    }
+  ],
+  "runtime": "2h 39m",
+  "released": "2015"
+},
+{
+  "id": 52,
+  "tmdb_id": 566,
+  "title": "Dhoom",
+  "year": "2004",
+  "genre": "Action Thriller",
+  "poster": "https://i.pinimg.com/736x/36/89/91/368991316c6097340edececc7ede0dc4.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/14/09/b1/1409b1d4870bb548d9ebe0a52e6b2809.jpg",
+  "trailer": "F3Ii35hqs_U",
+  "description": "A smart bike gang robs the city while a determined cop joins a mechanic to stop them.",
+  "castDetail": [
+    {
+      "name": "Abhishek Bachchan",
+      "photo": "assets/posters/abhishek.jpg"
+    },
+    {
+      "name": "John Abraham",
+      "photo": "https://i.pinimg.com/736x/af/6d/50/af6d50265d2338ba1656bc6e49aa174c.jpg"
+    },
+    {
+      "name": "Uday Chopra",
+      "photo": "https://i.pinimg.com/736x/1c/2e/f7/1c2ef7d074e345bb55a39bb1ae7a2696.jpg"
+    }
+  ],
+  "runtime": "2h 9m",
+  "released": "2004"
+},
+
+
+
+{
+  "id": 53,
+  "tmdb_id": 82856,
+  "title": "The Boys",
+  "year": "2019",
+  "genre": "Action Dark Comedy",
+  "poster": "https://i.pinimg.com/736x/7a/f8/8d/7af88dcabc0deb8e53f8bcf641b8ca9a.jpg",
+  "backdrop": "https://i.pinimg.com/736x/c2/ce/76/c2ce761f2bb096470d36f3d54d778d0f.jpg",
+  "trailer": "5SKP1_F7ReE",
+  "description": "A group of vigilantes fights corrupt superheroes backed by a powerful corporation.",
+  "castDetail": [
+    {
+      "name": "Karl Urban",
+      "photo": "https://i.pinimg.com/1200x/35/48/8b/35488bba377fd124c24ccf364dac02ae.jpg"
+    },
+    {
+      "name": "Antony Starr",
+      "photo": "https://i.pinimg.com/1200x/a0/89/5d/a0895d66cc74090a0884eb24772672a3.jpg"
+    },
+    {
+      "name": "Erin Moriarty",
+      "photo": "https://i.pinimg.com/736x/55/07/9c/55079c0b1566bf56d3e6760d89ae9daa.jpg"
+    }
+  ],
+  "runtime": "1h",
+  "released": "2019"
+},
+{
+  "id": 54,
+  "tmdb_id": 66732,
+  "title": "The Night Manager",
+  "year": "2023",
+  "genre": "Action Thriller",
+  "poster": "https://i.pinimg.com/1200x/5c/6b/72/5c6b723970f21871a846dc665da631c5.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/7b/43/d4/7b43d41d75edde70257022e510fbc83e.jpg",
+  "trailer": "6QJQysiUxKc",
+  "description": "An undercover agent infiltrates an arms dealer's network.",
+  "castDetail": [
+    {
+      "name": "Aditya Roy Kapur",
+      "photo": "https://i.pinimg.com/1200x/39/8e/2b/398e2bc21ee6db014ba16e82e251252b.jpg"
+    },
+    {
+      "name": "Anil Kapoor",
+      "photo": "https://i.pinimg.com/1200x/e3/7c/22/e37c2209526f5b3f539b38a407935270.jpg"
+    },
+    {
+      "name": "Sobhita Dhulipala",
+      "photo": "https://i.pinimg.com/736x/a9/f2/46/a9f24613ba0b4ebbc80c7ade6962da5c.jpg"
+    }
+  ],
+  "runtime": "45m",
+  "released": "2023"
+},
+{
+  "id": 55,
+  "tmdb_id": 456,
+  "title": "The Walking Dead",
+  "year": "2010",
+  "genre": "Horror Drama",
+  "poster": "https://i.pinimg.com/736x/61/c2/c1/61c2c110255bb4a83e96e5eb4075f3dd.jpg",
+  "backdrop": "https://i.pinimg.com/736x/15/a3/50/15a3504d1d7db9131aadecb28b65f080.jpg",
+  "trailer": "sfAc2U20uyg",
+  "description": "A sheriff leads a group of survivors after a zombie apocalypse hits the world.",
+  "castDetail": [
+    {
+      "name": "Andrew Lincoln",
+      "photo": "https://i.pinimg.com/736x/4c/1b/7a/4c1b7aa30a1a85027d07e5da4f329b0b.jpg"
+    },
+    {
+      "name": "Norman Reedus",
+      "photo": "https://i.pinimg.com/736x/7c/fd/d3/7cfdd33cd996e532ecf08d4c88027e90.jpg"
+    },
+    {
+      "name": "Danai Gurira",
+      "photo": "https://i.pinimg.com/1200x/57/2e/8f/572e8f68dc7caf1b190d2a3616b2730b.jpg"
+    }
+  ],
+  "runtime": "44m",
+  "released": "2010"
+},
+{
+  "id": 56,
+  "tmdb_id": 1402,
+  "title": "The Flash",
+  "year": "2014",
+  "genre": "Superhero Action",
+  "poster": "https://i.pinimg.com/1200x/c8/82/cc/c882cc1c1f9ec714e2d2428de1742857.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/2a/91/bb/2a91bb0f1940e5c93becb223eaabb05c.jpg",
+  "trailer": "IgVyroQjZbE",
+  "description": "A forensic scientist gains super-speed and becomes a hero.",
+  "castDetail": [
+    {
+      "name": "Grant Gustin",
+      "photo": "https://i.pinimg.com/736x/ec/ff/e4/ecffe48bf69e6e85fb38e179c9c3848b.jpg"
+    },
+    {
+      "name": "Candice Patton",
+      "photo": "https://i.pinimg.com/736x/6f/09/2c/6f092c4c5845cb5e1e6e0d20ab15f395.jpg"
+    },
+    {
+      "name": "Tom Cavanagh",
+      "photo": "https://i.pinimg.com/736x/29/97/1c/29971cd943e0a2fc04c6898841a39b79.jpg"
+    }
+  ],
+  "runtime": "43m",
+  "released": "2014"
+},
+
+{
+  "id": 57,
+  "tmdb_id": 69475,
+  "title": "Money Heist",
+  "year": "2017",
+  "genre": "Crime Thriller",
+  "poster": "https://i.pinimg.com/736x/11/99/e7/1199e7af4428e98189efd90b454923f5.jpg",
+  "backdrop": "https://i.pinimg.com/736x/8c/2a/90/8c2a90781e6feb5c9d58507e017a346b.jpg",
+  "trailer": "_InqQJRqGW4",
+  "description": "A mastermind called The Professor leads a team of robbers to execute the biggest heists in history.",
+  "castDetail": [
+    {
+      "name": "Álvaro Morte",
+      "photo": "https://i.pinimg.com/1200x/bc/43/ee/bc43ee36708fac190d8ef47fbc40bdc0.jpg"
+    },
+    {
+      "name": "Úrsula Corberó",
+      "photo": "https://i.pinimg.com/1200x/96/01/71/9601710a27f612bd1a251396f804fff0.jpg"
+    },
+    {
+      "name": "Pedro Alonso",
+      "photo": "https://i.pinimg.com/736x/8d/2e/9b/8d2e9bf4e5d36eacef32401ff76ef38e.jpg"
+    }
+  ],
+  "runtime": "50m",
+  "released": "2017"
+},
+{
+  "id": 58,
+  "tmdb_id": 62643,
+  "title": "Vikings",
+  "year": "2013",
+  "genre": "Historical Action",
+  "poster": "https://i.pinimg.com/736x/c9/00/f5/c900f594828761aa4de9e7ae212c9492.jpg",
+  "backdrop": "https://i.pinimg.com/736x/36/df/fc/36dffce11519cd4673b75608c8922c02.jpg",
+  "trailer": "9GgxinPwAGc",
+  "description": "The legendary Ragnar Lothbrok rises to power in the Viking world.",
+  "castDetail": [
+    {
+      "name": "Travis Fimmel",
+      "photo": "https://i.pinimg.com/1200x/d2/f7/35/d2f73550487c1aa315d16cb8ada0b906.jpg"
+    },
+    {
+      "name": "Katheryn Winnick",
+      "photo": "https://imgs.search.brave.com/K-Yipyo1JffsrsLbXOR-Xq-ZWxBs0IASCvmlvI26gtc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzEyLzZk/LzAwLzEyNmQwMGQz/Y2ZiMDIwYjFkNTJi/ZTg0YjY2MWNlODEz/LmpwZw"
+    },
+    {
+      "name": "Gustaf Skarsgård",
+      "photo": "https://i.pinimg.com/1200x/9a/75/36/9a75365a36ea54f05cdfc2408424b0c7.jpg"
+    }
+  ],
+  "runtime": "45m",
+  "released": "2013"
+},
+{
+  "id": 59,
+  "tmdb_id": 46839,
+  "title": "Sherlock",
+  "year": "2010",
+  "genre": "Crime Thriller",
+  "poster": "https://imgs.search.brave.com/SFqC9OGlHV8yYJLHTwvSrh7Msgy54GL6xdFhN_DutPU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5UUXpOR1pq/TkRFdE9UTXdZaTAw/TXpGakxXRTJaVFl0/WXpZeFl6TXdNalpr/WkRjNVhrRXlYa0Zx/Y0djQC5qcGc",
+  "backdrop": "https://i.pinimg.com/736x/ef/f6/29/eff629087022f03964e97649abff293d.jpg",
+  "trailer": "IrBKwzL3K7s",
+  "description": "A modern take on Sherlock Holmes and Dr. Watson solving crimes in London.",
+  "castDetail": [
+    {
+      "name": "Benedict Cumberbatch",
+      "photo": "https://i.pinimg.com/736x/6d/26/db/6d26db92fd24525f5e8824bc566209bd.jpg"
+    },
+    {
+      "name": "Martin Freeman",
+      "photo": "https://i.pinimg.com/1200x/68/0f/19/680f194311e2e92b556aefd88b5c3072.jpg"
+    },
+    {
+      "name": "Andrew Scott",
+      "photo": "https://i.pinimg.com/736x/d0/bb/a7/d0bba77336e402928aa4bb1b1435ccee.jpg"
+    }
+  ],
+  "runtime": "1h 30m",
+  "released": "2010"
+},
+{
+  "id": 60,
+  "tmdb_id": 71712,
+  "title": "The Punisher",
+  "year": "2017",
+  "genre": "Action Crime",
+  "poster": "https://i.pinimg.com/1200x/4f/b5/56/4fb556cdf9a1b16479d8fe2d42747a8b.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/15/9c/69/159c699a15ec4332e675297dd6b5c463.jpg",
+  "trailer": "s4QV6OZdmWY",
+  "description": "A former marine seeks vengeance for the death of his family.",
+  "castDetail": [
+    {
+      "name": "Jon Bernthal",
+      "photo": "https://imgs.search.brave.com/KxVssdzeFNmBoZvRVU1RHI9UQyN27YRNCKruCvskva8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kZWFk/bGluZS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjUvMDIv/am9uLWJlcm50aGFs/LXB1bmlzaGVyLmpw/Zz93PTY4MSZoPTM4/MyZjcm9wPTE"
+    },
+    {
+      "name": "Ben Barnes",
+      "photo": "https://i.pinimg.com/736x/1c/7b/24/1c7b24a20cdcf672c9bacf08613b567f.jpg"
+    },
+    {
+      "name": "Amber Rose Revah",
+      "photo": "https://i.pinimg.com/736x/fa/ac/72/faac72f28b3f8a957cf19438e7a203cb.jpg"
+    }
+  ],
+  "runtime": "55m",
+  "released": "2017"
+},
+{
+  "id": 61,
+  "tmdb_id": 34307,
+  "title": "Narcos",
+  "year": "2015",
+  "genre": "Crime Thriller",
+  "poster": "https://i.pinimg.com/736x/80/35/36/8035364debca05457559e4ce9c4aa81e.jpg",
+  "backdrop": "https://i.pinimg.com/736x/90/fe/c2/90fec21ba17e2af6c87005e3e6ec17c0.jpg",
+  "trailer": "xl8zdCY-abw",
+  "description": "Based on the rise and fall of infamous drug kingpin Pablo Escobar.",
+  "castDetail": [
+    {
+      "name": "Wagner Moura",
+      "photo": "https://i.pinimg.com/736x/cf/94/b7/cf94b7584130a5f710563afb52e38c20.jpg"
+    },
+    {
+      "name": "Pedro Pascal",
+      "photo": "https://imgs.search.brave.com/tDUc30L4ypzKvsNQJc_vNw5pBLnlQfZN55U555zHufY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzk2L2I1/Lzk5Lzk2YjU5OWU5/MzYyMmZjZTYxYTIw/YzgxNzRjYmQzNTcx/LmpwZw"
+    },
+    {
+      "name": "Boyd Holbrook",
+      "photo": "https://i.pinimg.com/1200x/6d/7e/19/6d7e19311e1db8dd2f7d674a8928b39f.jpg"
+    }
+  ],
+  "runtime": "50m",
+  "released": "2015"
+},
+
+{
+  "id": 62,
+  "tmdb_id": 815,
+  "title": "Prison Break",
+  "year": "2005",
+  "genre": "Crime Thriller",
+  "poster": "https://i.pinimg.com/736x/d1/f2/a2/d1f2a283afa65cce39d016143ad9a3ca.jpg",
+  "backdrop": "https://i.pinimg.com/736x/6d/1a/00/6d1a0061bb3220253a07b0235931f1db.jpg",
+  "trailer": "XjL1WfG9pnA",
+  "description": "A man deliberately gets imprisoned to break his brother out of death row.",
+  "castDetail": [
+    {
+      "name": "Wentworth Miller",
+      "photo": "https://i.pinimg.com/736x/ae/ca/1c/aeca1cc7b309bae106f5934d2a75f772.jpg"
+    },
+    {
+      "name": "Dominic Purcell",
+      "photo": "https://i.pinimg.com/1200x/c9/e3/42/c9e342e6312d3fd3fdef1867ceef8100.jpg"
+    },
+    {
+      "name": "Sarah Wayne Callies",
+      "photo": "https://i.pinimg.com/1200x/33/22/2a/33222aed2dab0d0782c596a08900f595.jpg"
+    }
+  ],
+  "runtime": "45m",
+  "released": "2005"
+},
+{
+  "id": 63,
+  "tmdb_id": 70523,
+  "title": "Peaky Blinders",
+  "year": "2013",
+  "genre": "Crime Drama",
+  "poster": "https://i.pinimg.com/736x/e0/05/47/e0054761767685e84ad65f6c766ca767.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/fc/61/1a/fc611a390806a866a43f82741f644f99.jpg",
+  "trailer": "oVzVdvGIC7U",
+  "description": "A gangster family in post-WWI Birmingham grows their criminal empire.",
+  "castDetail": [
+    {
+      "name": "Cillian Murphy",
+      "photo": "https://i.pinimg.com/1200x/ae/fe/b4/aefeb4b7a650af47973f7c6fd3ea778a.jpg"
+    },
+    {
+      "name": "Tom Hardy",
+      "photo": "https://i.pinimg.com/1200x/f8/14/01/f8140156dfd073027b1b6f20145b2660.jpg"
+    },
+    {
+      "name": "Paul Anderson",
+      "photo": "https://i.pinimg.com/736x/2f/39/f2/2f39f29bc9148c2c0d4a263e8ffbbfd2.jpg"
+    }
+  ],
+  "runtime": "55m",
+  "released": "2013"
+},
+{
+  "id": 64,
+  "tmdb_id": 198102,
+  "title": "Farzi",
+  "year": "2023",
+  "genre": "Crime Thriller",
+  "poster": "https://i.pinimg.com/736x/5c/25/c7/5c25c7b095ea4b06aba719d678c1de32.jpg",
+  "backdrop": "https://i.pinimg.com/736x/81/bd/fa/81bdfa6c89f3d01d7582cd9a87611bc4.jpg",
+  "trailer": "rcQ_xZdzPBc",
+  "description": "A brilliant sketch artist enters the counterfeiting world and draws the attention of a relentless officer.",
+  "castDetail": [
+    {
+      "name": "Shahid Kapoor",
+      "photo": "https://i.pinimg.com/1200x/27/ed/99/27ed9905516ff87d07a1be9d6cf9e57b.jpg"
+    },
+    {
+      "name": "Vijay Sethupathi",
+      "photo": "https://i.pinimg.com/736x/9a/85/06/9a85063b77560b0d0744f8043ab9e168.jpg"
+    },
+    {
+      "name": "Raashii Khanna",
+      "photo": "https://i.pinimg.com/1200x/bd/d2/6d/bdd26df849a8d99177bb7eca6a8272a4.jpg"
+    }
+  ],
+  "runtime": "45m",
+  "released": "2023"
+},
+{
+  "id": 65,
+  "tmdb_id": 71728,
+  "title": "Daredevil",
+  "year": "2015",
+  "genre": "Superhero Action",
+  "poster": "https://i.pinimg.com/736x/e3/95/a6/e395a6346aeb90ea908415733cb973d2.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/17/25/e0/1725e04edc50b1adad8433fecef0a138.jpg",
+  "trailer": "jAy6NJ_D5vU",
+  "description": "A blind lawyer fights crime at night as a masked vigilante.",
+  "castDetail": [
+    {
+      "name": "Charlie Cox",
+      "photo": "https://i.pinimg.com/1200x/94/8e/c9/948ec9d81b409d945b9e7bf79830febd.jpg"
+    },
+    {
+      "name": "Deborah Ann Woll",
+      "photo": "https://i.pinimg.com/736x/37/f9/2f/37f92f21efca3bcf47bc08b48256e99a.jpg"
+    },
+    {
+      "name": "Vincent D'Onofrio",
+      "photo": "https://i.pinimg.com/1200x/44/85/85/4485851cdbc308686918942731355475.jpg"
+    }
+  ],
+  "runtime": "54m",
+  "released": "2015"
+},
+{
+  "id": 66,
+  "tmdb_id": 60622,
+  "title": "Black Mirror",
+  "year": "2011",
+  "genre": "Sci-Fi Thriller",
+  "poster": "https://i.pinimg.com/1200x/06/ae/1c/06ae1ce18d451ec922e17946f2582e51.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/d2/76/e0/d276e00aef8a6189b4497062174661a4.jpg",
+  "trailer": "V0XOApF5nLU",
+  "description": "An anthology exploring dark scenarios shaped by technology.",
+  "castDetail": [
+    {
+      "name": "Bryce Dallas Howard",
+      "photo": "https://i.pinimg.com/1200x/0c/ab/2b/0cab2b0c6eb33a394d0303dac9a17b93.jpg"
+    },
+    {
+      "name": "Mackenzie Davis",
+      "photo": "https://i.pinimg.com/1200x/40/ec/c5/40ecc5cf6a0efda3e568844ed737a25f.jpg"
+    },
+    {
+      "name": "Jon Hamm",
+      "photo": "https://i.pinimg.com/1200x/ed/31/1d/ed311d1377e3ccb25595648d1d4d498a.jpg"
+    }
+  ],
+  "runtime": "1h",
+  "released": "2011"
+},
+{
+  "id": 67,
+  "tmdb_id": 76331,
+  "title": "The Family Man",
+  "year": "2019",
+  "genre": "Action Spy Thriller",
+  "poster": "https://i.pinimg.com/736x/6b/92/98/6b9298dfb22de292d220331e3c795a99.jpg",
+  "backdrop": "https://i.pinimg.com/736x/8c/e5/1e/8ce51efdb7592c06c6b3d88316dc0acb.jpg",
+  "trailer": "XatRGut65VI",
+  "description": "A middle-class man secretly works as a world-class spy.",
+  "castDetail": [
+    {
+      "name": "Manoj Bajpayee",
+      "photo": "https://i.pinimg.com/1200x/a4/7a/41/a47a411280c62fcf0d105e148472ea47.jpg"
+    },
+    {
+      "name": "Samantha Ruth Prabhu",
+      "photo": "https://i.pinimg.com/1200x/d8/94/8f/d8948f6b03cb6f1487a3613a94656304.jpg"
+    },
+    {
+      "name": "Priyamani",
+      "photo": "https://imgs.search.brave.com/5cU21k1LkEd28Vvo0Rn29VLKcM6gquNx97jJIBBgy50/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9maWxt/ZmFyZS53d21pbmRp/YS5jb20vY29udGVu/dC8yMDIxL2p1bC90/aGVmYW1pbHltYW4y/MTYyNjY5MTg3MS5q/cGc"
+    }
+  ],
+  "runtime": "45m",
+  "released": "2019"
+},
+{
+  "id": 68,
+  "tmdb_id": 81356,
+  "title": "Wednesday",
+  "year": "2022",
+  "genre": "Mystery Comedy",
+  "poster": "https://i.pinimg.com/736x/7f/43/a6/7f43a64bdab7657a7e6c3b4da9fceba5.jpg",
+  "backdrop": "https://i.pinimg.com/736x/85/08/31/8508314d2f082cb7274262eed87e7242.jpg",
+  "trailer": "Di310WS8zLk",
+  "description": "Wednesday Addams solves mysteries at her bizarre boarding school.",
+  "castDetail": [
+    {
+      "name": "Jenna Ortega",
+      "photo": "https://i.pinimg.com/1200x/53/37/cf/5337cf238d56fb9d14183060ac491919.jpg"
+    },
+    {
+      "name": "Emma Myers",
+      "photo": "https://i.pinimg.com/736x/9b/d1/08/9bd108d5483e0cafb33828877fdaadb0.jpg"
+    },
+    {
+      "name": "Hunter Doohan",
+      "photo": "https://i.pinimg.com/1200x/6f/8c/6b/6f8c6b950f67e818f276476bcdec1a68.jpg"
+    }
+  ],
+  "runtime": "50m",
+  "released": "2022"
+},
+{
+  "id": 69,
+  "tmdb_id": 76331,
+  "title": "Mirzapur",
+  "year": "2018",
+  "genre": "Crime Thriller",
+  "poster": "https://i.pinimg.com/736x/5a/0d/c7/5a0dc754a76af3000a1497dcdcc17c67.jpg",
+  "backdrop": "https://i.pinimg.com/736x/0c/f6/20/0cf620a277dd4019768d47628d869ee6.jpg",
+  "trailer": "ZNeGF-PvRHY",
+  "description": "A mafia rule in Purvanchal is threatened by ambition and revenge.",
+  "castDetail": [
+    {
+      "name": "Pankaj Tripathi",
+      "photo": "https://i.pinimg.com/736x/c1/d4/b0/c1d4b0832dcb40aeaa887ddfa0dfac51.jpg"
+    },
+    {
+      "name": "Ali Fazal",
+      "photo": "https://i.pinimg.com/736x/82/36/a2/8236a2a888f51ede733f60ab651f7656.jpg"
+    },
+    {
+      "name": "Divyendu Sharma",
+      "photo": "https://i.pinimg.com/1200x/65/29/8e/65298ecbd1c9022252194242479eb212.jpg"
+    }
+  ],
+  "runtime": "50m",
+  "released": "2018"
+},
+{
+  "id": 70,
+  "tmdb_id": 90296,
+  "title": "Loki",
+  "year": "2021",
+  "genre": "Superhero Sci-Fi",
+  "poster": "https://i.pinimg.com/1200x/32/65/d5/3265d5029b187841148d2523e5ef24b3.jpg",
+  "backdrop": "https://i.pinimg.com/736x/ee/e2/75/eee275d7579ab0437f5fc8a1a9bc950f.jpg",
+  "trailer": "nW948Va-l10",
+  "description": "Loki deals with the aftermath of the multiverse shattering.",
+  "castDetail": [
+    {
+      "name": "Tom Hiddleston",
+      "photo": "https://i.pinimg.com/1200x/51/7c/41/517c412d4eb88fc224f3c63de0d6a975.jpg"
+    },
+    {
+      "name": "Sophia Di Martino",
+      "photo": "https://i.pinimg.com/736x/3b/d4/e1/3bd4e1021bf85ab6601ddc13d420aeae.jpg"
+    },
+    {
+      "name": "Owen Wilson",
+      "photo": "https://i.pinimg.com/1200x/4d/84/4b/4d844b308c665b1f7d06f3905fe7a57f.jpg"
+    }
+  ],
+  "runtime": "52m",
+  "released": "2021"
+},
+
+
+{
+  "id": 71,
+  "tmdb_id": 210577,
+  "title": "The Fault in Our Stars",
+  "year": "2014",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/1200x/57/68/99/576899786d810ec193be1b887a183797.jpg",
+  "backdrop": "https://i.pinimg.com/736x/8b/62/fb/8b62fb524aae8b3f8818c234e8726110.jpg",
+  "trailer": "9ItBvH5J6ss",
+  "description": "Two teens battling illness fall deeply in love and embark on a life-changing journey.",
+  "castDetail": [
+    {
+      "name": "Shailene Woodley",
+      "photo": "https://i.pinimg.com/736x/b0/4e/42/b04e42a0bd03969233926a584a54a744.jpg"
+    },
+    {
+      "name": "Ansel Elgort",
+      "photo": "https://i.pinimg.com/736x/85/7c/f2/857cf2cea858b3f9f3a417e41d83e565.jpg"
+    },
+    {
+      "name": "Nat Wolff",
+      "photo": "https://i.pinimg.com/1200x/43/75/04/437504330caa76581e58381b7c7d190f.jpg"
+    }
+  ],
+  "runtime": "2h 6m",
+  "released": "2014"
+},
+{
+  "id": 72,
+  "tmdb_id": 244786,
+  "title": "Yeh Jawaani Hai Deewani",
+  "year": "2013",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/1200x/34/5f/ec/345fecf5e269212d9a287508648ec173.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/82/83/d2/8283d277c29979ed9c46c7f170850029.jpg",
+  "trailer": "Rbp2XUSeUNE",
+  "description": "A story of love, friendship, dreams, and growing up, told through two people who keep crossing paths.",
+  "castDetail": [
+    {
+      "name": "Ranbir Kapoor",
+      "photo": "https://i.pinimg.com/1200x/38/c7/e5/38c7e5bf79939a8a70380e3ac1f16a0b.jpg"
+    },
+    {
+      "name": "Deepika Padukone",
+      "photo": "https://i.pinimg.com/1200x/2e/6f/bb/2e6fbba171991c55beff63f2583f8a47.jpg"
+    },
+    {
+      "name": "Aditya Roy Kapur",
+      "photo": "https://m.media-amazon.com/images/M/MV5BZDk0ODQwMGMtYTMxYS00NGEzLTgyYTgtMGY0MGYxZDVhMzgzXkEyXkFqcGc@._V1_.jpg"
+    }
+  ],
+  "runtime": "2h 40m",
+  "released": "2013"
+},
+{
+  "id": 73,
+  "tmdb_id": 74465,
+  "title": "La La Land",
+  "year": "2016",
+  "genre": "Romantic Musical",
+  "poster": "https://i.pinimg.com/736x/a3/fe/19/a3fe1953058d51294b8c061a9f76ead7.jpg",
+  "backdrop": "https://i.pinimg.com/736x/84/e4/91/84e4913e2ffa79b5710fcd32aa6437f2.jpg",
+  "trailer": "0pdqf4P9MB8",
+  "description": "A jazz musician and an aspiring actress fall in love while chasing their dreams in Los Angeles.",
+  "castDetail": [
+    {
+      "name": "Ryan Gosling",
+      "photo": "https://i.pinimg.com/736x/6f/db/d9/6fdbd9f96e08d4b39c43e0200b6cd4b2.jpg"
+    },
+    {
+      "name": "Emma Stone",
+      "photo": "https://i.pinimg.com/1200x/bb/6a/9c/bb6a9cf29d09b1c4fb88a379e910d70c.jpg"
+    },
+    {
+      "name": "John Legend",
+      "photo": "https://i.pinimg.com/736x/a8/89/03/a88903e1041a905836ce17c6d3557685.jpg"
+    }
+  ],
+  "runtime": "2h 8m",
+  "released": "2016"
+},
+{
+  "id": 74,
+  "tmdb_id": 3933,
+  "title": "A Walk to Remember",
+  "year": "2002",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/1200x/bb/4b/3c/bb4b3c19d4e0a2fbd439dee3aedf524f.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/fe/a4/7a/fea47ad00ff94eba7bbcb8a62ad4ffb0.jpg",
+  "trailer": "W0uWS6CnC2o",
+  "description": "A rebellious teenager falls in love with a sweet, kind-hearted girl with a heartbreaking secret.",
+  "castDetail": [
+    {
+      "name": "Mandy Moore",
+      "photo": "https://i.pinimg.com/1200x/e2/91/06/e29106721a8cbd49106a81e4a2b0960a.jpg"
+    },
+    {
+      "name": "Shane West",
+      "photo": "https://i.pinimg.com/1200x/a1/4e/c2/a14ec29607d18c2537c7d1b1908eac17.jpg"
+    },
+    {
+      "name": "Peter Coyote",
+      "photo": "https://m.media-amazon.com/images/M/MV5BNTljZTIyMDktOTA3Ni00NmEyLWI3MWEtODE0MjA0OTM4YTY5XkEyXkFqcGc@._V1_.jpg"
+    }
+  ],
+  "runtime": "1h 42m",
+  "released": "2002"
+},
+{
+  "id": 75,
+  "tmdb_id": 13,
+  "title": "Forrest Gump",
+  "year": "1994",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/736x/a3/50/87/a35087d7f651a615ac9eac8d9ca627dc.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/68/b6/a7/68b6a73f55688537b17e05814c54faf1.jpg",
+  "trailer": "bLvqoHBptjg",
+  "description": "A gentle soul recounts his extraordinary life shaped by love and destiny.",
+  "castDetail": [
+    {
+      "name": "Tom Hanks",
+      "photo": "https://i.pinimg.com/736x/0f/d5/d8/0fd5d8835b55691de234c44c1f8334c6.jpg"
+    },
+    {
+      "name": "Robin Wright",
+      "photo": "https://imgs.search.brave.com/srv8X2Qdq3eX8IhvKD2WE-rjDafbvtwV5sqAJfxkCK0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wZW9w/bGUuY29tL3RobWIv/YkdQYm5mc2k1N2xK/aXd6RUNRWUdhVEVx/VHRNPS80MDAweDAv/ZmlsdGVyczpub191/cHNjYWxlKCk6bWF4/X2J5dGVzKDE1MDAw/MCk6c3RyaXBfaWNj/KCk6Zm9jYWwoNzQ5/eDA6NzUxeDIpL3Jv/YmluLXdyaWdodC1m/b3JyZXN0LWd1bXAt/dG91dC0wMzA0MjQt/NzgxZDgwNTQ5ZTlh/NDBkZGI3Zjk5YjJj/MmIxYjAwZDIuanBn"
+    },
+    {
+      "name": "Gary Sinise",
+      "photo": "https://i.pinimg.com/736x/6e/5b/c5/6e5bc5957eadb30b96c7984a53861bce.jpg"
+    }
+  ],
+  "runtime": "2h 22m",
+  "released": "1994"
+},
+{
+  "id": 76,
+  "tmdb_id": 286217,
+  "title": "The Age of Adaline",
+  "year": "2015",
+  "genre": "Romantic Fantasy",
+  "poster": "https://i.pinimg.com/736x/5e/a8/9b/5ea89b1803562e030f1063e86db43747.jpg",
+  "backdrop": "https://i.pinimg.com/736x/74/b2/7f/74b27fe3a4a207c09264e160d25ace2a.jpg",
+  "trailer": "7UzSekc0LoQ4",
+  "description": "A woman stops aging after an accident and finds love decades later while hiding her secret.",
+  "castDetail": [
+    {
+      "name": "Blake Lively",
+      "photo": "https://i.pinimg.com/1200x/9d/a9/9f/9da99f4812c1e6a528be923e7009e679.jpg"
+    },
+    {
+      "name": "Michiel Huisman",
+      "photo": "https://i.pinimg.com/736x/09/3e/a3/093ea3c6fd64d9616dcce21c48b9f3a1.jpg"
+    },
+    {
+      "name": "Harrison Ford",
+      "photo": "https://i.pinimg.com/1200x/ce/a9/1c/cea91ce9a52bfaad6608eee2ed0534de.jpg"
+    }
+  ],
+  "runtime": "1h 52m",
+  "released": "2015"
+},
+{
+  "id": 77,
+  "tmdb_id": 11324,
+  "title": "Jab We Met",
+  "year": "2007",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/1200x/d6/25/00/d625008c5ba3b93a8d457d989df05ee0.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/40/0d/55/400d556a828a559d316f98a8cd1e2131.jpg",
+  "trailer": "BFzT-hQDreM",
+  "description": "A depressed businessman and a bubbly girl transform each other's lives during an unexpected journey.",
+  "castDetail": [
+    {
+      "name": "Shahid Kapoor",
+      "photo": "https://i.pinimg.com/736x/93/b8/a7/93b8a70628f639ee899b4129d174122d.jpg"
+    },
+    {
+      "name": "Kareena Kapoor Khan",
+      "photo": "https://i.pinimg.com/736x/c7/17/fd/c717fd92903374c47749469f725462bc.jpg"
+    },
+    {
+      "name": "Tarun Arora",
+      "photo": "https://storypick.com/wp-content/uploads/2022/10/anshumann-e1664617111427.jpg"
+    }
+  ],
+  "runtime": "2h 18m",
+  "released": "2007"
+},
+{
+  "id": 78,
+  "tmdb_id": 198375,
+  "title": "Me Before You",
+  "year": "2016",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/736x/5f/d0/6a/5fd06a83163d42160b905fd42cc65736.jpg",
+  "backdrop": "https://i.pinimg.com/736x/bd/93/58/bd935847e0a4be2532efb0f42dee6be1.jpg",
+  "trailer": "T0MmkG_nG1U",
+  "description": "A cheerful young woman becomes a caregiver for a paralyzed man, and an unlikely romance blooms.",
+  "castDetail": [
+    {
+      "name": "Emilia Clarke",
+      "photo": "https://i.pinimg.com/1200x/db/ac/3f/dbac3ff00cf047d899fc58e665fda8b4.jpg"
+    },
+    {
+      "name": "Sam Claflin",
+      "photo": "https://i.pinimg.com/1200x/25/c8/22/25c82231a0a12739595334957ed5489d.jpg"
+    },
+    {
+      "name": "Charles Dance",
+      "photo": "https://imgs.search.brave.com/O0j1RMkgUep5qQDb0Kfp-ik8BJFUhERK7vE1k3Dya2c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zY3Jl/ZW5hbmFyY2h5LmNv/bS9hc3NldHMvZ2Fs/bGVyeS8yMDE2LzA2/L1RNRk8tQ2hhcmxl/cy1EYW5jZS1NZUJl/Zm9yZVlvdS5qcGc"
+    }
+  ],
+  "runtime": "1h 50m",
+  "released": "2016"
+},
+{
+  "id": 79,
+  "tmdb_id": 297802,
+  "title": "Tamasha",
+  "year": "2015",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/1200x/c0/6f/35/c06f35192407bfa05a2dcb342f01e895.jpg",
+  "backdrop": "https://i.pinimg.com/736x/80/4a/3b/804a3b3f5780da732d05b6a8ce506ae3.jpg",
+  "trailer": "o-e5eWVCzx8",
+  "description": "A woman helps a free-spirited man reconnect with his true identity and passion.",
+  "castDetail": [
+    {
+      "name": "Ranbir Kapoor",
+      "photo": "https://i.pinimg.com/1200x/27/11/78/2711786a0d4681aaebedf2834b3f255a.jpg"
+    },
+    {
+      "name": "Deepika Padukone",
+      "photo": "https://i.pinimg.com/736x/07/74/7a/07747a1690e914705235ac40075079c2.jpg"
+    },
+    {
+      "name": "Piyush Mishra",
+      "photo": "https://i.pinimg.com/1200x/0d/05/10/0d05109e44bd6f274885e191b1dc5434.jpg"
+    }
+  ],
+  "runtime": "2h 19m",
+  "released": "2015"
+},
+{
+  "id": 80,
+  "tmdb_id": 19913,
+  "title": "The Notebook",
+  "year": "2004",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/736x/a0/2f/26/a02f2674426d0953c7e2d0a21c4116fb.jpg",
+  "backdrop": "https://i.pinimg.com/736x/4d/97/5d/4d975d2b1c80add9d8c6244b6304f1f6.jpg",
+  "trailer": "FC6biTjEyZw",
+  "description": "A sweeping love story about two young lovers separated by class and circumstance.",
+  "castDetail": [
+    {
+      "name": "Ryan Gosling",
+      "photo": "https://i.pinimg.com/736x/d7/64/93/d764936612138175853e3238a1906dc5.jpg"
+    },
+    {
+      "name": "Rachel McAdams",
+      "photo": "https://i.pinimg.com/736x/c6/29/58/c62958291aaf48c1fc2dc11e9b483932.jpg"
+    },
+    {
+      "name": "James Garner",
+      "photo": "https://i.pinimg.com/1200x/0d/b9/d9/0db9d9339d24797160711b7a854aac50.jpg"
+    }
+  ],
+  "runtime": "2h 3m",
+  "released": "2004"
+},
+{
+  "id": 81,
+  "tmdb_id": 356322,
+  "title": "Ae Dil Hai Mushkil",
+  "year": "2016",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/736x/49/e6/61/49e66176bec81d389ae475d27c28bf0a.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/d0/32/4b/d0324b2bc3f407ce725a606016b910f6.jpg",
+  "trailer": "Z_PODraXg4E",
+  "description": "Unrequited love, friendship, heartbreak, and passion collide in a moving story.",
+  "castDetail": [
+    {
+      "name": "Ranbir Kapoor",
+      "photo": "https://i.pinimg.com/736x/38/8b/62/388b6247fe9c6e6ed4a783e5de8baa64.jpg"
+    },
+    {
+      "name": "Anushka Sharma",
+      "photo": "https://i.pinimg.com/736x/d3/ac/1c/d3ac1ce21de5a89b9b3c87b8edf98017.jpg"
+    },
+    {
+      "name": "Aishwarya Rai Bachchan",
+      "photo": "https://i.pinimg.com/736x/42/b4/9b/42b49b40deb798fd2ef76c8b63e6cf98.jpg"
+    }
+  ],
+  "runtime": "2h 40m",
+  "released": "2016"
+},
+{
+  "id": 82,
+  "tmdb_id": 381284,
+  "title": "To All the Boys I've Loved Before",
+  "year": "2018",
+  "genre": "Romantic Comedy",
+  "poster": "https://i.pinimg.com/1200x/74/37/d0/7437d0f79c0fda8f449aa9df8fea0c3c.jpg",
+  "backdrop": "https://i.pinimg.com/736x/bb/34/73/bb347310bb7c6f29d14e2d4f65f865a1.jpg",
+  "trailer": "555oiY9RWM4",
+  "description": "A teen girl's secret love letters get mailed to her crushes, turning her life upside down.",
+  "castDetail": [
+    {
+      "name": "Lana Condor",
+      "photo": "https://i.pinimg.com/736x/61/86/cf/6186cf5e18bce4a5f3f9922a22eee254.jpg"
+    },
+    {
+      "name": "Noah Centineo",
+      "photo": "https://i.pinimg.com/1200x/13/11/98/1311981d90ee5505614a106ffb980fe5.jpg"
+    },
+    {
+      "name": "Janel Parrish",
+      "photo": "https://i.pinimg.com/1200x/8b/44/2d/8b442d257179b4f17095a3212fd61b4a.jpg"
+    }
+  ],
+  "runtime": "1h 39m",
+  "released": "2018"
+},
+{
+  "id": 83,
+  "tmdb_id": 49948,
+  "title": "Wake Up Sid",
+  "year": "2009",
+  "genre": "Romantic Coming-of-Age",
+  "poster": "https://i.pinimg.com/1200x/1b/65/71/1b657118ce655504e3226bee801bb66e.jpg",
+  "backdrop":"https://i.pinimg.com/1200x/6b/77/99/6b7799b93ec4d3e5a492185eac728f00.jpg",
+  "trailer": "Ngimy3GpHS0",
+  "description": "A lazy college boy grows up after meeting an aspiring writer who changes his life.",
+  "castDetail": [
+    {
+      "name": "Ranbir Kapoor",
+      "photo": "https://i.pinimg.com/1200x/6b/77/99/6b7799b93ec4d3e5a492185eac728f00.jpg"
+    },
+    {
+      "name": "Konkona Sen Sharma",
+      "photo": "https://i.pinimg.com/736x/57/cf/88/57cf88fdb7af7be89225942a2ab3050e.jpg"
+    },
+    {
+      "name": "Anupam Kher",
+      "photo": "https://i.pinimg.com/1200x/41/50/f2/4150f24e420db842225d498f4ab538cc.jpg"
+    }
+  ],
+  "runtime": "2h 18m",
+  "released": "2009"
+},
+{
+  "id": 84,
+  "tmdb_id": 198663,
+  "title": "About Time",
+  "year": "2013",
+  "genre": "Romantic Fantasy",
+  "poster": "https://i.pinimg.com/736x/c1/9f/3c/c19f3c038f60862c6ac69c680aa6a1b8.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/44/b4/08/44b4086895448568eb63226345fc48b3.jpg",
+  "trailer": "T7A810duHvw",
+  "description": "A young man discovers he can time travel and uses it to find love and fix his life.",
+  "castDetail": [
+    {
+      "name": "Domhnall Gleeson",
+      "photo": "https://i.pinimg.com/1200x/a0/0b/db/a00bdb58fdf2cc86bfac63d816e43780.jpg"
+    },
+    {
+      "name": "Rachel McAdams",
+      "photo": "https://i.pinimg.com/1200x/d0/4e/bb/d04ebbd79a04ec93e1e1acf3ad8e06f6.jpg"
+    },
+    {
+      "name": "Bill Nighy",
+      "photo": "https://i.pinimg.com/736x/8e/8c/47/8e8c474e7990a93c6835fb081f45a4d5.jpg"
+    }
+  ],
+  "runtime": "2h 3m",
+  "released": "2013"
+},
+{
+  "id": 85,
+  "tmdb_id": 748783,
+  "title": "Mismatched",
+  "year": "2020",
+  "genre": "Romantic Series",
+  "poster": "https://i.pinimg.com/1200x/89/d3/82/89d382bc19a7b2894faec5cb550a1eb6.jpg",
+  "backdrop": "https://i.pinimg.com/736x/cd/65/52/cd6552ee972dbab32adbdc2e2b8404aa.jpg",
+  "trailer": "LmZqV22VWBQ",
+  "description": "Two young adults collide at a tech course, learning love, friendship and ambition along the way.",
+  "castDetail": [
+    {
+      "name": "Prajakta Koli",
+      "photo": "https://i.pinimg.com/1200x/c4/50/e4/c450e441f3bead33d6222a05fac3e84a.jpg"
+    },
+    {
+      "name": "Rohit Saraf",
+      "photo": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/07/rohit-saraf-1626535965.jpg"
+    },
+    {
+      "name": "Vihaan Samat",
+      "photo": "https://filmfare.wwmindia.com/content/2023/jan/vihaansamat31673951094.jpg"
+    }
+  ],
+  "runtime": "35m",
+  "released": "2020"
+},
+{
+  "id": 86,
+  "tmdb_id": 21888,
+  "title": "Before Sunrise",
+  "year": "1995",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/1200x/75/bb/b6/75bbb6e821e9cb773de0774617f6818f.jpg",
+  "backdrop": "https://i.pinimg.com/736x/71/e3/da/71e3dace8aa06bb2ed5b88aed47fe111.jpg",
+  "trailer": "jGvcbSabADM",
+  "description": "Two strangers meet on a train and spend one magical night walking around Vienna.",
+  "castDetail": [
+    {
+      "name": "Ethan Hawke",
+      "photo": "https://i.pinimg.com/1200x/49/10/bb/4910bbc00464b1cebf574f02c2099593.jpg"
+    },
+    {
+      "name": "Julie Delpy",
+      "photo": "https://i.pinimg.com/736x/4e/a8/19/4ea8198dcca7d08969e6c143200a64be.jpg"
+    },
+    {
+      "name": "Erni Mangold",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5G6D_RG2-KcEmsT52y1M1_nWkxLTtqP87SQ&s"
+    }
+  ],
+  "runtime": "1h 41m",
+  "released": "1995"
+},
+{
+  "id": 87,
+  "tmdb_id": 20352,
+  "title": "Kuch Kuch Hota Hai",
+  "year": "1998",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/1200x/3c/f9/94/3cf9944c662d15327ff59e64f4f3bfb7.jpg",
+  "backdrop": "https://i.pinimg.com/736x/3f/e0/15/3fe01556d31cc6e9e9775c28384aed84.jpg",
+  "trailer": "IR5ReWgs-iQ",
+  "description": "A classic Bollywood love triangle exploring friendship, heartbreak and destiny.",
+  "castDetail": [
+    {
+      "name": "Shah Rukh Khan",
+      "photo": "https://i.pinimg.com/736x/9d/d6/f6/9dd6f68e5455beba94acd44f85b50acb.jpg"
+    },
+    {
+      "name": "Kajol",
+      "photo": "https://i.pinimg.com/736x/11/8b/74/118b74d3dce66b3a19e7887f2aa35ab4.jpg"
+    },
+    {
+      "name": "Rani Mukerji",
+      "photo": "https://i.pinimg.com/736x/89/e7/1c/89e71c0cf51a1e53ce0aa458f6c44499.jpg"
+    }
+  ],
+  "runtime": "3h 5m",
+  "released": "1998"
+},
+{
+  "id": 88,
+  "tmdb_id": 9951,
+  "title": "How I Met Your Mother",
+  "year": "2005",
+  "genre": "Romantic Sitcom",
+  "poster": "https://i.pinimg.com/736x/e1/ce/89/e1ce8903d2f9603cf8480fe7fb4b8a0f.jpg",
+  "backdrop": "https://i.pinimg.com/736x/9d/c4/50/9dc45017caad60317a9c6f9a4cc2f00a.jpg",
+  "trailer": "aJtVL2_fA5w",
+  "description": "A father tells his children the long story of how he met their mother.",
+  "castDetail": [
+    {
+      "name": "Josh Radnor",
+      "photo": "https://i.pinimg.com/736x/8d/d7/14/8dd714e148fd266e1a4e225533a21c60.jpg"
+    },
+    {
+      "name": "Cobie Smulders",
+      "photo": "https://i.pinimg.com/736x/ec/d1/cf/ecd1cfeedf56899e0b323baa45c0bf79.jpg"
+    },
+    {
+      "name": "Neil Patrick Harris",
+      "photo": "https://i.pinimg.com/1200x/60/49/53/604953d8505a0e4bbdc954dd11aca244.jpg"
+    }
+  ],
+  "runtime": "25m",
+  "released": "2005"
+},
+{
+  "id": 89,
+  "tmdb_id": 70678,
+  "title": "Bridgerton",
+  "year": "2020",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/1200x/e2/d4/8b/e2d48beceec60e42c5f4c4006178fa7d.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/d0/32/ff/d032ffe308016b593e283ff224dd05d5.jpg",
+  "trailer": "gpv7ayf_tyE",
+  "description": "In Regency-era England, powerful families navigate love, scandal, and secrets.",
+  "castDetail": [
+    {
+      "name": "Phoebe Dynevor",
+      "photo": "https://i.pinimg.com/1200x/ed/ef/8c/edef8ccd1c9ad3bb66588c0d9b2d57a2.jpg"
+    },
+    {
+      "name": "Rege-Jean Page",
+      "photo": "https://i.pinimg.com/1200x/a9/60/24/a9602484a0c6e3e162ecc2faed33977e.jpg"
+    },
+    {
+      "name": "Nicola Coughlan",
+      "photo": "https://i.pinimg.com/736x/b6/31/05/b631050eee0c859b2707ff147f066e3f.jpg"
+    }
+  ],
+  "runtime": "1h",
+  "released": "2020"
+},
+{
+  "id": 90,
+  "tmdb_id": 82992,
+  "title": "Normal People",
+  "year": "2020",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/736x/fc/a3/c3/fca3c3e4c6226b882ac778fce1025416.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/f9/4c/60/f94c609d919140747b960263922dba56.jpg",
+  "trailer": "x1JQuWxt3cE",
+  "description": "A tender and raw love story of two people whose bond evolves from teenage years into adulthood.",
+  "castDetail": [
+    {
+      "name": "Paul Mescal",
+      "photo": "https://i.pinimg.com/1200x/c1/7e/b4/c17eb49c2b93febf3079ec321a0a7c9a.jpg"
+    },
+    {
+      "name": "Daisy Edgar-Jones",
+      "photo": "https://i.pinimg.com/736x/19/22/ec/1922eca333adc2a02fcb9dc2df1da9df.jpg"
+    },
+    {
+      "name": "Aislín McGuckin",
+      "photo": "https://focus.sundayworld.com/thumbor/YUTaNN2RbBvcr7hqM4LXDQ10B0Y=/0x47:1500x875/1280x960/prod-mh-ireland/9735d3aa-de0b-11ec-a75f-0257d57b707f.JPG"
+    }
+  ],
+  "runtime": "30m",
+  "released": "2020"
+},
+
+
+{
+  "id": 91,
+  "tmdb_id": 64690,
+  "title": "The Hangover",
+  "year": "2009",
+  "genre": "Comedy",
+  "poster": "https://i.pinimg.com/1200x/5d/43/8e/5d438ee05ed50368d643346a85d1e86b.jpg",
+  "backdrop": "https://i.pinimg.com/736x/84/90/68/849068fd91734c73bd21dd2de57c1406.jpg",
+  "trailer": "tcdUhdOlz9M",
+  "description": "Three friends retrace their steps after a wild bachelor party in Las Vegas.",
+  "castDetail": [
+    {
+      "name": "Bradley Cooper",
+      "photo": "https://i.pinimg.com/1200x/6e/dc/cf/6edccfc20e0ec93cac7789e965e32caf.jpg"
+    },
+    {
+      "name": "Zach Galifianakis",
+      "photo": "https://i.pinimg.com/736x/a1/85/8f/a1858fecf40b85b00197789679d67d4d.jpg"
+    },
+    {
+      "name": "Ed Helms",
+      "photo": "https://i.pinimg.com/736x/33/99/2e/33992e842adaaac564c34e3dc89e59a5.jpg"
+    }
+  ],
+  "runtime": "1h 40m",
+  "released": "2009"
+},
+{
+  "id": 92,
+  "tmdb_id": 198436,
+  "title": "Welcome",
+  "year": "2007",
+  "genre": "Comedy",
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpTZa2xMahrg0x4WX-iYDDtSPzOyUA7SDTdPh7BOkVTsulI6F8",
+  "backdrop": "https://images-cdn.ubuy.co.in/6348d195613a345ae166a307-welcome-home-decorations-fabric-welcome.jpg",
+  "trailer": "QJCMdzuLG0I",
+  "description": "A simple man must deal with two feared gangsters who want him to marry their sister.",
+  "castDetail": [
+    {
+      "name": "Akshay Kumar",
+      "photo": "https://i.redd.it/ea32bfcohmcd1.jpeg"
+    },
+    {
+      "name": "Anil Kapoor",
+      "photo": "https://images.indianexpress.com/2025/03/anil.jpg"
+    },
+    {
+      "name": "Nana Patekar",
+      "photo": "https://imgs.search.brave.com/e1XnX322OJI9TiqMvrFuUFJa04Rcra8QtVMBv84HlFo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5ESXdZekV3/WWpRdE9UYzJaaTAw/T1dWaUxXRTRaRGN0/WXpCa1pXRmxaakEz/TnpZNVhrRXlYa0Zx/Y0djQC5qcGc"
+    }
+  ],
+  "runtime": "2h 39m",
+  "released": "2007"
+},
+{
+  "id": 93,
+  "tmdb_id": 76203,
+  "title": "Phir Hera Pheri",
+  "year": "2006",
+  "genre": "Comedy",
+  "poster": "https://i.pinimg.com/1200x/c8/bf/99/c8bf997f0e2025c87144951f7d859482.jpg",
+  "backdrop": "https://wallpapercave.com/wp/wp6327803.jpg",
+  "trailer": "Im_lCAsA27Q",
+  "description": "Three men dream of becoming rich and fall into hilarious trouble again.",
+  "castDetail": [
+    {
+      "name": "Akshay Kumar",
+      "photo": "https://pbs.twimg.com/media/Fhcp7nVUYAAa8CJ.jpg"
+    },
+    {
+      "name": "Suniel Shetty",
+      "photo": "https://h72.s3.ap-south-1.amazonaws.com/itus-degree-1.png"
+    },
+    {
+      "name": "Paresh Rawal",
+      "photo": "https://i.pinimg.com/736x/37/5c/e6/375ce62097b0299c97bcbcb1be6b8bcd.jpg"
+    }
+  ],
+  "runtime": "2h 33m",
+  "released": "2006"
+},
+{
+  "id": 94,
+  "tmdb_id": 44833,
+  "title": "Hera Pheri",
+  "year": "2000",
+  "genre": "Comedy",
+  "poster": "https://i.pinimg.com/1200x/7d/cb/58/7dcb58d84622fc53936a6270aee44e9a.jpg",
+  "backdrop": "https://i.pinimg.com/736x/43/4f/b5/434fb5d930cbdd17e0e947873c3855c9.jpg",
+  "trailer": "m1zMmVwWr-M",
+  "description": "Three broke men accidentally become part of a hilarious kidnapping mix-up.",
+  "castDetail": [
+    {
+      "name": "Akshay Kumar",
+      "photo": "https://alchetron.com/cdn/hera-pheri-2000-film-2c9dc6cb-d1b1-418a-af01-c7c814d53f5-resize-750.jpg"
+    },
+    {
+      "name": "Paresh Rawal",
+      "photo": "https://i.pinimg.com/736x/37/5c/e6/375ce62097b0299c97bcbcb1be6b8bcd.jpg"
+    },
+    {
+      "name": "Suniel Shetty",
+      "photo": "https://m.media-amazon.com/images/S/pv-target-images/1fd56d0bd494d083788dc7b74fbe90a363c9ed713d17bc6dc5934fceca72d78e.jpg"
+    }
+  ],
+  "runtime": "2h 36m",
+  "released": "2000"
+},
+{
+  "id": 95,
+  "tmdb_id": 10719,
+  "title": "Dhamaal",
+  "year": "2007",
+  "genre": "Comedy Adventure",
+  "poster": "https://i.pinimg.com/1200x/8c/f8/08/8cf808cbd7944a264e9fac294b81acfb.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/8c/f8/08/8cf808cbd7944a264e9fac294b81acfb.jpg",
+  "trailer": "21HspIo71Ho",
+  "description": "Four friends chase a hidden treasure in a wild comedic adventure.",
+  "castDetail": [
+    {
+      "name": "Riteish Deshmukh",
+      "photo": "https://i.ytimg.com/vi/7HbjZR2iLgM/maxresdefault.jpg"
+    },
+    {
+      "name": "Arshad Warsi",
+      "photo": "https://images.indianexpress.com/2024/04/10_41a50d.jpg"
+    },
+    {
+      "name": "Jaaved Jaffrey",
+      "photo": "https://images.hindustantimes.com/img/2022/08/08/1600x900/Jaaved_Jaaferi_1659949529919_1659949539861_1659949539861.jpg"
+    }
+  ],
+  "runtime": "2h 17m",
+  "released": "2007"
+},
+{
+  "id": 96,
+  "tmdb_id": 353491,
+  "title": "Deadpool",
+  "year": "2016",
+  "genre": "Action Comedy",
+  "poster": "https://i.pinimg.com/1200x/43/5c/37/435c3716e740a219eff8268615ba047c.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/68/be/0b/68be0ba6dbedf9f1497f560a5e40828a.jpg",
+  "trailer": "Xithigfg7dA",
+  "description": "A mercenary with a twisted sense of humor becomes an anti-hero after a rogue experiment.",
+  "castDetail": [
+    {
+      "name": "Ryan Reynolds",
+      "photo": "https://i.pinimg.com/1200x/2f/52/5a/2f525a0bca808e43e3926c19e6695e55.jpg"
+    },
+    {
+      "name": "Morena Baccarin",
+      "photo": "https://i.pinimg.com/1200x/48/f9/d9/48f9d9e40fc5f855e8c73c14e3613bb7.jpg"
+    },
+    {
+      "name": "T.J. Miller",
+      "photo": "https://images.thedirect.com/media/photos/tjmiller.png"
+    }
+  ],
+  "runtime": "1h 48m",
+  "released": "2016"
+},
+
+{
+  "id": 97,
+  "tmdb_id": 353616,
+  "title": "Brooklyn Nine-Nine",
+  "year": "2013",
+  "genre": "Comedy Series",
+  "poster": "https://i.pinimg.com/736x/52/1d/27/521d271fb4b41a5e19a30de376361a30.jpg",
+  "backdrop": "https://i.pinimg.com/736x/c1/11/c5/c111c5fdeb8a80770e6b69cbc3e14ed7.jpg",
+  "trailer": "icTOP9F17pU",
+  "description": "A talented but childish detective and his oddball team solve crimes in hilarious ways.",
+  "castDetail": [
+    {
+      "name": "Andy Samberg",
+      "photo": "https://i.pinimg.com/736x/fa/e8/3a/fae83a7dacf9e9281e8b8d0f86ddc535.jpg"
+    },
+    {
+      "name": "Andre Braugher",
+      "photo": "https://i.pinimg.com/1200x/da/7d/f2/da7df2e5f3314aef957c95004bf87239.jpg"
+    },
+    {
+      "name": "Terry Crews",
+      "photo": "https://i.pinimg.com/736x/79/82/30/79823083478736f2fedbf613e1e0a408.jpg"
+    }
+  ],
+  "runtime": "22m",
+  "released": "2013"
+},
+{
+  "id": 98,
+  "tmdb_id": 2316,
+  "title": "Friends",
+  "year": "1994",
+  "genre": "Comedy Series",
+  "poster": "https://i.pinimg.com/1200x/4b/bb/cd/4bbbcd24861c98003a485a1162ea93ac.jpg",
+  "backdrop": "https://i.pinimg.com/736x/4c/04/21/4c0421879c4463fce6f1852df4934cba.jpg",
+  "trailer": "Zg2LCD5QOJs",
+  "description": "Six friends navigate life, love, and hilarious situations in New York City.",
+  "castDetail": [
+    {
+      "name": "Jennifer Aniston",
+      "photo": "https://i.pinimg.com/1200x/c7/c0/58/c7c058f1ebb99ec9cc3064559b72a4e3.jpg"
+    },
+    {
+      "name": "Courteney Cox",
+      "photo": "https://i.pinimg.com/736x/f9/62/04/f962047eb0a5572e53e9ce2eec2c4043.jpg"
+    },
+    {
+      "name": "Matthew Perry",
+      "photo": "https://i.pinimg.com/1200x/b9/ca/41/b9ca4197f69f305f9db1736c1d9d315a.jpg"
+    }
+  ],
+  "runtime": "22m",
+  "released": "1994"
+},
+
+{
+  "id": 99,
+  "tmdb_id": 340022,
+  "title": "Jolly LLB 2",
+  "year": "2017",
+  "genre": "Comedy Drama",
+  "poster": "https://i.pinimg.com/736x/4f/09/2e/4f092e4f2ada4f524d228b561ad34422.jpg",
+  "backdrop": "https://i.pinimg.com/736x/50/76/e1/5076e1dd3d9808d7b6a8791fe7a183b9.jpg",
+  "trailer": "q07SQFmL4rM",
+  "description": "A bumbling lawyer takes on a powerful case to prove himself.",
+  "castDetail": [
+    {
+      "name": "Akshay Kumar",
+      "photo": "https://m.media-amazon.com/images/M/MV5BMDRhZTVkZDgtZDdjMi00YjZkLWIwZGItY2VhNWI5YjkzZTU4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "Huma Qureshi",
+      "photo": "https://cdn.bollywoodbubble.com/wp-content/uploads/2017/02/Huma-Qureshi-role-Jolly-LLB-2.jpg"
+    },
+    {
+      "name": "Saurabh Shukla",
+      "photo": "https://m.media-amazon.com/images/M/MV5BM2RkZjhkNzUtYzM2YS00NzllLWE0NGItMDcyNzg3MTEzZWFjXkEyXkFqcGc@._V1_.jpg"
+    }
+  ],
+  "runtime": "2h 12m",
+  "released": "2017"
+},
+{
+  "id": 100,
+  "tmdb_id": 118340,
+  "title": "The Office",
+  "year": "2005",
+  "genre": "Comedy Series",
+  "poster": "https://i.pinimg.com/736x/72/b6/d7/72b6d7eddd670aaa9fbc4d1466eba9ee.jpg",
+  "backdrop": "https://i.pinimg.com/736x/32/7c/b6/327cb640cd0ac64868623c4c75fc632b.jpg",
+  "trailer": "C2z-nshFts",
+  "description": "A mockumentary exploring the absurd everyday work lives of office employees.",
+  "castDetail": [
+    {
+      "name": "Steve Carell",
+      "photo": "https://i.pinimg.com/736x/8b/7a/27/8b7a2733ae079b9831e31a5b07d9a312.jpg"
+    },
+    {
+      "name": "John Krasinski",
+      "photo": "https://i.pinimg.com/736x/9d/d0/68/9dd06809fe624bae4da7e37c4f6ba514.jpg"
+    },
+    {
+      "name": "Jenna Fischer",
+      "photo": "https://i.pinimg.com/736x/1a/0f/63/1a0f6376ba0474fba0b79c6b1110cbd0.jpg"
+    }
+  ],
+  "runtime": "22m",
+  "released": "2005"
+},
+
+{
+  "id": 101,
+  "tmdb_id": 438631,
+  "title": "Stree",
+  "year": "2018",
+  "genre": "Horror Comedy",
+  "poster": "https://i.pinimg.com/736x/1a/5d/ff/1a5dff21fdb1a89afd557beb03660d49.jpg",
+  "backdrop": "https://i.pinimg.com/736x/fb/15/0b/fb150bf8d4b8135f11fdb84ef3359b9a.jpg",
+  "trailer": "gzeaGcLLl_A",
+  "description": "A small town is haunted by a female spirit that abducts men during a festival.",
+  "castDetail": [
+    {
+      "name": "Rajkummar Rao",
+      "photo": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2018/08/stree-1534241115.jpg"
+    },
+    {
+      "name": "Shraddha Kapoor",
+      "photo": "https://i.pinimg.com/1200x/84/ad/76/84ad76cdd26c1ccd77c2be1bc3839dcb.jpg"
+    },
+    {
+      "name": "Pankaj Tripathi",
+      "photo": "https://i.pinimg.com/736x/eb/c2/58/ebc25869a73444ab710e7ee12da336bf.jpg"
+    }
+  ],
+  "runtime": "2h 8m",
+  "released": "2018"
+},
+{
+  "id": 102,
+  "tmdb_id": 4348,
+  "title": "21 Jump Street",
+  "year": "2012",
+  "genre": "Comedy Action",
+  "poster": "https://i.pinimg.com/1200x/1f/cb/9c/1fcb9c4d3bf4360f9f015a15f22d76f8.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/f4/19/63/f419639ad16c714d8591e5e00c33a1f8.jpg",
+  "trailer": "RLoKtb4c4W0",
+  "description": "Two underachieving cops are sent back to high school to bust a drug ring.",
+  "castDetail": [
+    {
+      "name": "Jonah Hill",
+      "photo": "https://www.straight.com/files/v3/styles/gs_feature/public/2012/10/MOV_21JumpStreet_2308.jpg?itok=5lS8I4M1"
+    },
+    {
+      "name": "Channing Tatum",
+      "photo": "https://i.pinimg.com/736x/54/3f/9d/543f9da07ea9223721a74003889e8b05.jpg"
+    },
+    {
+      "name": "Brie Larson",
+      "photo": "https://i.pinimg.com/736x/ac/6f/8f/ac6f8f6d864424498bd2f5887487a602.jpg"
+    }
+  ],
+  "runtime": "1h 49m",
+  "released": "2012"
+},
+{
+  "id": 103,
+  "tmdb_id": 361743,
+  "title": "Housefull",
+  "year": "2010",
+  "genre": "Comedy",
+  "poster": "https://i.pinimg.com/1200x/f0/20/c1/f020c1464eb9afced8b3550a5572f05f.jpg",
+  "backdrop": "https://i.pinimg.com/736x/a9/f2/77/a9f277974610de9a99882c1f3c0a43ea.jpg",
+  "trailer": "0eRVTe98Lz4",
+  "description": "A man considered unlucky in love gets caught in a chain of hilarious misunderstandings.",
+  "castDetail": [
+    {
+      "name": "Akshay Kumar",
+      "photo": "https://www.koimoi.com/wp-content/new-galleries/2024/09/heres-revisiting-the-box-office-verdict-of-all-the-housefull-movies-01.jpg"
+    },
+    {
+      "name": "Deepika Padukone",
+      "photo": "https://im.rediff.com/movies/2010/apr/29sl3.jpg"
+    },
+    {
+      "name": "Riteish Deshmukh",
+      "photo": "https://pbs.twimg.com/media/CN5JQeLUAAA9lR5.jpg"
+    }
+  ],
+  "runtime": "2h 35m",
+  "released": "2010"
+},
+
+{
+  "id": 104,
+  "tmdb_id": 4194,
+  "title": "Star Wars: The Clone Wars",
+  "year": "2008",
+  "genre": "Animation Action",
+  "poster": "https://i.pinimg.com/1200x/a5/ec/ad/a5ecad0a7928e98bcb44e5e84ccc86f0.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/5d/76/67/5d76674a107cf483cb948dae1691daef.jpg",
+  "trailer": "ZLW2jkd6E7g",
+  "description": "Anakin Skywalker, Obi-Wan Kenobi, and Ahsoka Tano lead the Republic’s fight against the Separatists.",
+  "castDetail": [
+    { "name": "Matt Lanter", "photo": "https://i.pinimg.com/1200x/22/79/8f/22798f17cb5509e91fe8ac80f7c4a0ee.jpg" },
+    { "name": "Ashley Eckstein", "photo": "https://i.pinimg.com/1200x/2a/9a/f9/2a9af9c5dd6e18a4f86ef5531f41d793.jpg" },
+    { "name": "James Arnold Taylor", "photo": "https://i.pinimg.com/736x/0a/5c/bc/0a5cbc0758f0516991068e018ce86309.jpg" }
+  ],
+  "runtime": "22m",
+  "released": "2008"
+},
+{
+  "id": 105,
+  "tmdb_id": 60059,
+  "title": "Better Call Saul",
+  "year": "2015",
+  "genre": "Crime Drama",
+  "poster": "https://i.pinimg.com/736x/4e/39/a1/4e39a1f72be3c9a68493097a73e69bb2.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/6a/5b/ec/6a5bec24d17cb7fb635ff7551557cd6e.jpg",
+  "trailer": "9q4qzYrHVmI",
+  "description": "The rise of Jimmy McGill as he transforms into the morally conflicted lawyer Saul Goodman.",
+  "castDetail": [
+    { "name": "Bob Odenkirk", "photo": "https://i.pinimg.com/736x/9d/19/f2/9d19f26cb369cabc06b4d7036ebd93b0.jpg" },
+    { "name": "Jonathan Banks", "photo": "https://i.pinimg.com/1200x/ee/6f/c4/ee6fc49c4693d828c1fb9db8a3352c06.jpg" },
+    { "name": "Rhea Seehorn", "photo": "https://i.pinimg.com/1200x/14/e3/f5/14e3f53b0dc7a665672116de042912c5.jpg" }
+  ],
+  "runtime": "47m",
+  "released": "2015"
+},
+{
+  "id": 106,
+  "tmdb_id": 82856,
+  "title": "The Mandalorian",
+  "year": "2019",
+  "genre": "Sci-Fi Adventure",
+  "poster": "https://i.pinimg.com/736x/49/7b/8b/497b8bdd152ea05fce5654a0b8c799f7.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/fa/a0/39/faa03998d1c71c58fa07c3edef4182d2.jpg",
+  "trailer": "aOC8E8z_ifw",
+  "description": "A lone bounty hunter travels the galaxy protecting a mysterious child known as Grogu.",
+  "castDetail": [
+    { "name": "Pedro Pascal", "photo": "https://i.pinimg.com/1200x/18/6a/25/186a25f04048e1299987f7e0dd6d5006.jpg" },
+    { "name": "Carl Weathers", "photo": "https://i.pinimg.com/736x/c6/5b/98/c65b982b0b9de812376fff8d5d0ccf04.jpg" },
+    { "name": "Gina Carano", "photo": "https://i.pinimg.com/1200x/47/d1/8a/47d18a986bb79fb0e9a76ef3a985401f.jpg" }
+  ],
+  "runtime": "35m",
+  "released": "2019"
+},
+{
+  "id": 107,
+  "tmdb_id": 95557,
+  "title": "Invincible",
+  "year": "2021",
+  "genre": "Animation Superhero",
+  "poster": "https://i.pinimg.com/736x/fd/59/ff/fd59ffbde4fb8b0261a660f72ef31da9.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/24/e6/69/24e669098c20b9613e4b51df03cff962.jpg",
+  "trailer": "-bfAVpuko5o",
+  "description": "A teenager discovers his father is the world’s most powerful superhero—and hides terrible secrets.",
+  "castDetail": [
+    { "name": "Steven Yeun", "photo": "https://i.pinimg.com/736x/22/8d/19/228d19fad90cbbb36a8c7ce00239080c.jpg" },
+    { "name": "J.K. Simmons", "photo": "https://i.pinimg.com/1200x/3d/71/c8/3d71c80bcd2eec4debfd276e0b935f11.jpg" },
+    { "name": "Sandra Oh", "photo": "https://i.pinimg.com/1200x/80/a7/b3/80a7b38ba9545050d8d0fb5aa6e78691.jpg" }
+  ],
+  "runtime": "45m",
+  "released": "2021"
+},
+{
+  "id": 108,
+  "tmdb_id": 31356,
+  "title": "Justified",
+  "year": "2010",
+  "genre": "Crime Western",
+  "poster": "https://i.pinimg.com/1200x/10/52/a7/1052a7e5b52e02c6d199a68d21e3ec7c.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/6e/be/91/6ebe9126b01bee459d66d85727a3ee80.jpg",
+  "trailer": "86zzu8wz0-U",
+  "description": "A U.S. Marshal enforces justice in his rural Kentucky hometown while facing dangerous criminals.",
+  "castDetail": [
+    { "name": "Timothy Olyphant", "photo": "https://i.pinimg.com/1200x/0e/39/b2/0e39b2d4339434a1a718de4888c6e6ad.jpg" },
+    { "name": "Walton Goggins", "photo": "https://i.pinimg.com/1200x/93/65/ac/9365acdc0004e8896165873104dfb265.jpg" },
+    { "name": "Joelle Carter", "photo": "https://i.pinimg.com/736x/8c/ee/35/8cee35d1956ced950c1efc3bfe99a90a.jpg" }
+  ],
+  "runtime": "44m",
+  "released": "2010"
+},
+{
+  "id": 109,
+  "tmdb_id": 153312,
+  "title": "The Bear",
+  "year": "2022",
+  "genre": "Drama Comedy",
+  "poster": "https://i.pinimg.com/736x/82/34/1c/82341cad87f82f414895a6c2c591b005.jpg",
+  "backdrop": "https://i.pinimg.com/736x/8c/dd/34/8cdd34cf87f48a737126c8c389dc2e76.jpg",
+  "trailer": "gBmkI4jlaIo",
+  "description": "A young chef takes over his family's chaotic sandwich shop while dealing with grief and pressure.",
+  "castDetail": [
+    { "name": "Jeremy Allen White", "photo": "https://i.pinimg.com/736x/34/8d/af/348dafa52e653b49ca0eb5ee29c94e06.jpg" },
+    { "name": "Ayo Edebiri", "photo": "https://i.pinimg.com/1200x/a2/af/78/a2af78eb5b96eb45212cc73c2f11b508.jpg" },
+    { "name": "Ebon Moss-Bachrach", "photo": "https://i.pinimg.com/736x/67/df/2f/67df2febdbb32436cb727ac207ae16ed.jpg" }
+  ],
+  "runtime": "28m",
+  "released": "2022"
+},
+{
+  "id": 110,
+  "tmdb_id": 63351,
+  "title": "You",
+  "year": "2018",
+  "genre": "Psychological Thriller",
+  "poster": "https://i.pinimg.com/1200x/43/b2/8e/43b28e0d0a17500db07e2bdadf086b37.jpg",
+  "backdrop": "https://i.pinimg.com/736x/ad/5f/b7/ad5fb7d16fddf2af0bc1a3740cb67482.jpg",
+  "trailer": "v99ooSjCVhg",
+  "description": "A charming but dangerously obsessive man does anything to insert himself into the lives of his crushes.",
+  "castDetail": [
+    { "name": "Penn Badgley", "photo": "https://i.pinimg.com/736x/5b/65/44/5b65444a6dce2329708860a01129ef32.jpg" },
+    { "name": "Victoria Pedretti", "photo": "https://i.pinimg.com/736x/a2/84/a3/a284a3affb35843f54f2786d351140d6.jpg" },
+    { "name": "Elizabeth Lail", "photo": "https://i.pinimg.com/736x/68/25/72/6825729b0f0b37db0f7455262110e5d6.jpg" }
+  ],
+  "runtime": "45m",
+  "released": "2018"
+},
+{
+  "id": 111,
+  "tmdb_id": 77169,
+  "title": "Cobra Kai",
+  "year": "2018",
+  "genre": "Action Comedy",
+  "poster": "https://i.pinimg.com/736x/72/0f/b1/720fb150949aee3faf734391e265c946.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/ef/c3/24/efc3247391a879c7c411c010707301e8.jpg",
+  "trailer": "xCwwxNbtK6Y",
+  "description": "Rival karate dojos reignite decades-old grudges as new students enter the fight.",
+  "castDetail": [
+    { "name": "William Zabka", "photo": "https://i.pinimg.com/736x/d6/0e/50/d60e501a4c9955dda7339a24209bb2d1.jpg" },
+    { "name": "Ralph Macchio", "photo": "https://i.pinimg.com/736x/98/6e/f9/986ef96ef19ed93ae03d400758de0e35.jpg" },
+    { "name": "Xolo Maridueña", "photo": "https://i.pinimg.com/736x/ec/a4/cd/eca4cdd658180cfb7d603cec5a94ab38.jpg" }
+  ],
+  "runtime": "30m",
+  "released": "2018"
+},
+{
+  "id": 112,
+  "tmdb_id": 4556,
+  "title": "Scrubs",
+  "year": "2001",
+  "genre": "Comedy Drama",
+  "poster": "https://i.pinimg.com/736x/40/5a/80/405a80308f9ec6c37dcc74e7ff9cf67c.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/63/b0/20/63b0203df1cddd52ee9b7811a2cdd977.jpg",
+  "trailer": "zOgb3KIJDY8",
+  "description": "A comedic look at life, friendship, and chaos inside a teaching hospital.",
+  "castDetail": [
+    { "name": "Zach Braff", "photo": "https://i.pinimg.com/1200x/a5/e8/c5/a5e8c597586ce055e5ebfe504749451f.jpg" },
+    { "name": "Donald Faison", "photo": "https://i.pinimg.com/1200x/8e/db/a5/8edba55a80cf299b98a9240e00008e27.jpg" },
+    { "name": "Sarah Chalke", "photo": "https://i.pinimg.com/736x/fa/fd/00/fafd0012ed283961f847cbc50e753ab3.jpg" }
+  ],
+  "runtime": "22m",
+  "released": "2001"
+},
+{
+  "id": 113,
+  "tmdb_id": 4603,
+  "title": "Malcolm in the Middle",
+  "year": "2000",
+  "genre": "Comedy",
+  "poster": "https://i.pinimg.com/1200x/73/b2/47/73b2476bf63ab51705925568d717a81e.jpg",
+  "backdrop": "https://i.pinimg.com/736x/67/02/c7/6702c7e99f0bc1134561ea6fec3a01f8.jpg",
+  "trailer": "hRu9mZUwz4w",
+  "description": "A gifted boy navigates a chaotic family full of eccentric personalities.",
+  "castDetail": [
+    { "name": "Frankie Muniz", "photo": "https://i.pinimg.com/736x/cb/f1/f5/cbf1f548a027411adf89cc0e5db94a80.jpg" },
+    { "name": "Bryan Cranston", "photo": "https://i.pinimg.com/1200x/ad/c4/25/adc4259a3c918f8726c34693c13f1b4f.jpg" },
+    { "name": "Jane Kaczmarek", "photo": "https://i.pinimg.com/736x/84/ec/97/84ec97cfdfa7aef192c86f0caa076867.jpg" }
+  ],
+  "runtime": "22m",
+  "released": "2000"
+},
+{
+  "id": 114,
+  "tmdb_id": 1405,
+  "title": "Burn Notice",
+  "year": "2007",
+  "genre": "Action Drama",
+  "poster": "https://i.pinimg.com/736x/5e/ef/e1/5eefe1bc35b8d3b9cbd3421de009488b.jpg",
+  "backdrop": "https://i.pinimg.com/736x/fc/b9/2f/fcb92f5c3c4239c0a01d1467f3c00495.jpg",
+  "trailer": "bKkOK2XY8G0",
+  "description": "A spy who’s been burned uses his skills to help others while searching for who betrayed him.",
+  "castDetail": [
+    { "name": "Jeffrey Donovan", "photo": "https://i.pinimg.com/1200x/2d/38/dc/2d38dc633865cc5c18571dbaab9fe628.jpg" },
+    { "name": "Gabrielle Anwar", "photo": "https://i.pinimg.com/736x/24/44/e1/2444e1bc1c340b5fea62f6fc5e275d6d.jpg" },
+    { "name": "Bruce Campbell", "photo": "https://i.pinimg.com/736x/f7/20/f2/f720f2007f5bcc8cb9c97838210f357a.jpg" }
+  ],
+  "runtime": "42m",
+  "released": "2007"
+},
+{
+  "id": 115,
+  "tmdb_id": 1893,
+  "title": "Star Wars: Episode I – The Phantom Menace",
+  "year": "1999",
+  "genre": "Sci-Fi Adventure",
+  "poster": "https://i.pinimg.com/1200x/36/15/9b/36159bcb92b5be060af7147e8ea08d43.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/4b/f3/aa/4bf3aac4fa8cfbbe0589194968f07c1e.jpg",
+  "trailer": "bD7bpG-zDJQ",
+  "description": "Two Jedi Knights discover a young slave boy with extraordinary potential while protecting the Queen of Naboo from a rising galactic threat.",
+  "castDetail": [
+    {
+      "name": "Liam Neeson (Qui-Gon Jinn)",
+      "photo": "https://i.pinimg.com/1200x/9b/9d/0f/9b9d0f9ac14b87b71f2288b1244e9342.jpg"
+    },
+    {
+      "name": "Ewan McGregor (Obi-Wan Kenobi)",
+      "photo": "https://i.pinimg.com/736x/23/1d/a5/231da569a914b8cf12ed368e8932c1f1.jpg"
+    },
+    {
+      "name": "Natalie Portman (Padmé Amidala)",
+      "photo": "https://i.pinimg.com/736x/47/e4/8e/47e48e352bf93fa8b296f1f7b998913d.jpg"
+    },
+    {
+      "name": "Jake Lloyd (Anakin Skywalker)",
+      "photo": "https://i.pinimg.com/1200x/c4/e3/73/c4e3734b4853287c59e7309fb64ab724.jpg"
+    }
+  ],
+  "runtime": "2h 16m",
+  "released": "1999"
+}
+,
+{
+  "id": 116,
+  "tmdb_id": 1405,
+  "title": "Dexter",
+  "year": "2006",
+  "genre": "Crime Thriller Drama",
+  "poster": "https://i.pinimg.com/736x/54/9c/38/549c3846eb6c32db0f50732e93ee65a5.jpg",
+  "backdrop": "https://i.pinimg.com/736x/85/46/c3/8546c34fa7129ae6f9d0303e59fa54b1.jpg",
+  "trailer": "YQeUmSD1c3g",
+  "description": "By day, Dexter Morgan is a forensic blood spatter analyst for Miami Metro. By night, he becomes a vigilante serial killer targeting other murderers who have escaped justice.",
+  "castDetail": [
+    {
+      "name": "Michael C. Hall (Dexter Morgan)",
+      "photo": "https://i.pinimg.com/736x/a3/15/fc/a315fc9a4246e8d55f074af6eb5f7e41.jpg"
+    },
+    {
+      "name": "Jennifer Carpenter (Debra Morgan)",
+      "photo": "https://i.pinimg.com/736x/02/74/44/0274445f18766c46b0f0060b541ddda9.jpg"
+    },
+    {
+      "name": "James Remar (Harry Morgan)",
+      "photo": "https://i.pinimg.com/736x/93/d6/0f/93d60f7a0c4df3463459318fa87b76f8.jpg"
+    }
+  ],
+  "runtime": "55m",
+  "released": "2006"
+}
+,
+{
+  "id": 117,
+  "tmdb_id": 46952,
+  "title": "The Blacklist",
+  "year": "2013",
+  "genre": "Crime Thriller",
+  "poster": "https://i.pinimg.com/736x/9d/53/4a/9d534ad8723c72e5a62c19b1adcf978b.jpg",
+  "backdrop": "https://i.pinimg.com/1200x/ac/14/0f/ac140f8d505cd423b54b78923b2a92e2.jpg",
+  "trailer": "JGBIimq1I3A",
+  "description": "A master criminal surrenders to the FBI with a list of dangerous fugitives only he can help capture.",
+  "castDetail": [
+    { "name": "James Spader", "photo": "https://i.pinimg.com/736x/1f/ab/d2/1fabd2ab0d8bcebba21c0d73075ffe32.jpg" },
+    { "name": "Megan Boone", "photo": "https://i.pinimg.com/736x/0e/2b/bc/0e2bbc37814ee3f58ff10b8b269c10a2.jpg" },
+    { "name": "Diego Klattenhoff", "photo": "https://i.pinimg.com/736x/d5/ae/81/d5ae8194a95913729b6f540f7f4df6be.jpg" }
+  ],
+  "runtime": "45m",
+  "released": "2013"
+},
+{
+  "id": 118,
+  "tmdb_id": 96492,
+  "title": "The White Lotus",
+  "year": "2021",
+  "genre": "Drama Comedy",
+  "poster": "https://i.pinimg.com/1200x/36/5c/ba/365cbabcf1ec1106258b562b2d6f8da1.jpg",
+  "backdrop":"https://i.pinimg.com/1200x/6a/bc/b6/6abcb6f9dc93777340c34796afc22ee9.jpg",
+  "trailer": "TGLq7_MonZ4",
+  "description": "Guests at a luxury resort experience dark, comedic, and chaotic events behind the paradise facade.",
+  "castDetail": [
+    { "name": "Jennifer Coolidge", "photo": "https://i.pinimg.com/736x/f0/32/1b/f0321b2ec55eac3ab3bd8943c25e4d24.jpg" },
+    { "name": "Aubrey Plaza", "photo": "https://i.pinimg.com/736x/da/34/96/da34969a0db818c2dbf20a41e4dd3dd2.jpg" },
+    { "name": "Theo James", "photo": "https://i.pinimg.com/736x/6e/a8/b8/6ea8b82fdbd78e0d7ff5a299e2e7edd7.jpg" }
+  ],
+  "runtime": "55m",
+  "released": "2021"
+},
+
+{
+  "id": 119,
+  "tmdb_id": 64690,
+  "title": "Drive",
+  "year": "2011",
+  "genre": "Action Crime Drama",
+  "poster": "https://i.pinimg.com/1200x/d9/76/0a/d9760a7c36e43ddda0e7621d2442e0d9.jpg",
+  "backdrop": "https://i.pinimg.com/736x/98/2d/05/982d0532f723234ee9631afc4ada1883.jpg",
+  "trailer": "KBiOF3y1W0Y",
+  "description": "A skilled Hollywood stunt driver moonlights as a getaway driver and finds himself pulled into a violent underworld.",
+  "castDetail": [
+    {
+      "name": "Ryan Gosling",
+      "photo": "https://i.pinimg.com/736x/4d/b3/63/4db36397dd9e2006f1fde34a02c21768.jpg"
+    },
+    {
+      "name": "Carey Mulligan",
+      "photo": "https://i.pinimg.com/736x/39/b3/1c/39b31c9753645127035dfbc2e98a42d0.jpg"
+    },
+    {
+      "name": "Oscar Isaac",
+      "photo": "https://i.pinimg.com/1200x/55/d0/6e/55d06e3792046d1f0829919b5e5a2908.jpg"
+    }
+  ],
+  "runtime": "1h 40m",
+  "released": "2011"
+},
+{
+  "id": 120,
+  "tmdb_id": 12609,
+  "title": "Dragon Ball Z",
+  "year": "1989",
+  "genre": "Anime Action Adventure",
+  "poster": "https://i.pinimg.com/1200x/2f/2f/44/2f2f44fa9320d478dfc215c3603e6f93.jpg",
+  "backdrop": "https://i.pinimg.com/736x/84/70/c7/8470c7830d061e9d44186fb69770b5aa.jpg",
+  "trailer": "b9P5IL2Q4wQ",
+  "description": "Goku and the Z Fighters defend Earth from powerful enemies in one of the most iconic anime series ever.",
+  "castDetail": [
+    {
+      "name": "Masako Nozawa",
+      "photo": "https://a.storyblok.com/f/178900/1920x1080/70c86a462c/masako-nozawa-headshot.jpg/m/1200x0/filters:quality(95)format(webp)"
+    },
+    {
+      "name": "Ryo Horikawa",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_45oaG5biu68t70BxyCfSm4hc3KLwWfKryg&s"
+    },
+    {
+      "name": "Toshio Furukawa",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Toshio_Furukawa.jpg"
+    }
+  ],
+  "runtime": "24m",
+  "released": "1989"
+},
+
+{
+  "id": 121,
+  "tmdb_id": 11831,
+  "title": "How to Lose a Guy in 10 Days",
+  "year": "2003",
+  "genre": "Romantic Comedy",
+  "poster": "https://i.pinimg.com/736x/8b/a2/c9/8ba2c99dab320c3ef28f445d2bedb94f.jpg",
+  "backdrop": "https://i.pinimg.com/736x/57/ac/51/57ac51a19ffaa5fd5943ea117d901889.jpg",
+  "trailer": "2ZMGk_Ml1fc",
+  "description": "A magazine writer tries to drive away a man in ten days for an article, unaware that he has bet he can make a woman fall for him in the same amount of time.",
+  "castDetail": [
+    {
+      "name": "Kate Hudson",
+      "photo": "https://i.pinimg.com/736x/33/93/47/3393474eb1199bb66c2681af155c4fa3.jpg"
+    },
+    {
+      "name": "Matthew McConaughey",
+      "photo": "https://i.pinimg.com/736x/82/52/5d/82525ded1820c3f2f9ec7cef9ff78890.jpg"
+    },
+    {
+      "name": "Kathryn Hahn",
+      "photo": "https://i.pinimg.com/1200x/17/f6/dd/17f6dd0eefcbb10f17ae8fee9103ecec.jpg"
+    }
+  ],
+  "runtime": "1h 56m",
+  "released": "2003"
+},
+
+{
+  "id": 122,
+  "tmdb_id": 1903,
+  "title": "Vanilla Sky",
+  "year": "2001",
+  "genre": "Romantic Mystery Drama",
+  "poster": "https://i.pinimg.com/736x/18/0f/49/180f49ccd6d0a13350da6043a12e3ce3.jpg",
+  "backdrop": "https://i.pinimg.com/736x/40/c8/05/40c805ef7e796545a45f9aedd3012dbe.jpg",
+  "trailer": "k09OX40NLUw",
+  "description": "A wealthy publishing heir's life unravels after a car accident, blurring the line between dreams, reality, and identity.",
+  "castDetail": [
+    {
+      "name": "Tom Cruise",
+      "photo": "https://i.pinimg.com/736x/b1/d5/6a/b1d56ab7fc45ba8b55c73c521a451fb5.jpg"
+    },
+    {
+      "name": "Penélope Cruz",
+      "photo": "https://i.pinimg.com/1200x/2d/27/49/2d27494af0483b49014c0ac665ba5edb.jpg"
+    },
+    {
+      "name": "Cameron Diaz",
+      "photo": "https://i.pinimg.com/474x/53/95/2f/53952f0acc098556cbad5bba4146d014.jpg"
+    }
+  ],
+  "runtime": "2h 17m",
+  "released": "2001"
+},
+{
+  "id": 123,
+  "tmdb_id": 9394,
+  "title": "Jerry Maguire",
+  "year": "1996",
+  "genre": "Romantic Drama",
+  "poster": "https://i.pinimg.com/736x/c3/1e/49/c31e49b4ccd7e1e78615bd6316627833.jpg",
+  "backdrop": "https://i.pinimg.com/736x/0b/22/3f/0b223fb097fd3a11600cd2504565e5d9.jpg",
+  "trailer": "KUd3gwaf0KQ",
+  "description": "A sports agent experiences a moral awakening, starts his own agency, and fights to rebuild his career and love life.",
+  "castDetail": [
+    {
+      "name": "Tom Cruise",
+      "photo": "https://i.pinimg.com/1200x/0b/d6/79/0bd67940ef68dee0ac850f320cc60e03.jpg"
+    },
+    {
+
+      "name": "Renée Zellweger",
+      "photo": "https://i.pinimg.com/736x/de/8a/68/de8a6838d6bd29470c64f269169dfd34.jpg"
+    },
+    {
+      "name": "Cuba Gooding Jr.",
+      "photo": "https://i.pinimg.com/1200x/56/fd/48/56fd48cf34261d05479f21563e8b87b8.jpg"
+    }
+  ],
+  "runtime": "2h 19m",
+  "released": "1996"
+}
+
+]

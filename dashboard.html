@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Dashboard - Watch-It</title>
+  <link rel="stylesheet" href="css/dashboard.css">
+</head>
+
+<body>
+
+<!-- ===== NAVBAR ===== -->
+<header class="navbar">
+  <div class="logo">Watch-It</div>
+
+  <nav class="nav-links">
+    <a href="index.html" class="nav-item">Home</a>
+
+    <div class="user-info">
+      <img id="navProfilePic" src="assets/profile/default-avatar.png" alt="User Avatar" class="nav-avatar">
+      <span id="navUserName">DHRUV</span>
+    </div>
+
+    <button id="logoutBtn" class="logout-btn">Logout</button>
+  </nav>
+</header>
+
+<script src="js/navbar.js"></script>
+
+<!-- ===== USER PROFILE SECTION ===== -->
+<section class="profile-section">
+
+  <div class="profile-header">
+
+    <!-- ✅ FIXED PATH -->
+    <img id="profilePic" src="assets/profile/default-avatar.png" alt="Profile Picture" class="profile-pic">
+
+    <button id="changePicBtn" class="change-btn">Change Picture</button>
+
+    <!-- ✅ FILE INPUT ADDED -->
+    <input type="file" id="uploadProfilePic" accept="image/*" style="display:none;">
+  </div>
+
+  <div class="profile-info">
+    <h2 id="userName">DHRUV</h2>
+    <p id="userEmail">dhruvjangra662@gmail.com</p>
+  </div>
+
+</section>
+
+<!-- ===== WATCHLIST ===== -->
+<section class="watchlist-section">
+  <h2>Watchlist</h2>
+  <div id="watchlist" class="similar-grid"></div>
+</section>
+
+<!-- ===== REVIEWS ===== -->
+<section class="user-section">
+  <h3>My Reviews</h3>
+  <div id="myReviews" class="review-list"></div>
+</section>
+
+<script src="js/dashboard.js" defer></script>
+</body>
+</html>
+

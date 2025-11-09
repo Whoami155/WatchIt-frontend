@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Actor - Watch-It</title>
+  <link rel="stylesheet" href="css/actor.css">
+</head>
+
+<body>
+
+  <!-- ===== NAVBAR ===== -->
+  <header class="navbar">
+    <div class="logo">Watch-It</div>
+    <nav class="nav-links">
+      <a href="index.html" class="nav-item">Home</a>
+      <a href="dashboard.html" class="nav-item">Dashboard</a>
+    </nav>
+  </header>
+
+  <!-- ===== ACTOR SECTION ===== -->
+  <main class="actor-page">
+
+    <!-- ===== Actor Header ===== -->
+    <section class="actor-header">
+      <div class="actor-pic-wrapper">
+        <img id="actorPhoto" src="assets/default_actor.png" alt="Actor Photo" class="actor-pic">
+        <p id="characterName" class="character-name"></p>
+      </div>
+
+      <div class="actor-info">
+        <h1 id="actorName">Actor Name</h1>
+        <p class="actor-subtext">
+          Movies featuring <span id="actorNameInline">Actor Name</span>
+        </p>
+      </div>
+    </section>
+
+    <!-- ===== Actor’s Movies ===== -->
+    <section class="actor-movies-section">
+      <h2>Movies</h2>
+      <div id="actorMovies" class="actor-movie-grid"></div>
+    </section>
+
+  </main>
+
+  <!-- ===== JS ===== -->
+  <script src="js/actor.js" defer></script>
+
+</body>
+</html>
+
+

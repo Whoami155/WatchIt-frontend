@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Watch-It</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <!-- ===== NAVBAR ===== -->
+  <header class="navbar">
+  <div class="logo">Watch-It</div>
+  
+
+  <nav class="nav-links">
+    <a href="index.html" class="nav-item">Home</a>
+    <a id="navLogin" href="login.html" class="nav-item">Login</a>
+    <!-- Logout will be injected here -->
+  </nav>
+</header>
+
+
+<script src="js/navbar.js"></script>
+
+  <!-- ===== HERO ===== -->
+  <section class="hero">
+    <h1>Find. Review. Enjoy Cinema 🎬</h1>
+
+    <div class="search-filter-bar">
+      <input type="text" id="searchInput" placeholder="Search movies..." class="search-box">
+
+      <div id="searchResults" class="search-results"></div>
+
+
+      <select id="genreFilter" class="filter-select">
+        <option value="">All Genres</option>
+        <option value="Action">Action</option>
+        <option value="Drama">Drama</option>
+        <option value="Comedy">Comedy</option>
+        <option value="Sci-Fi">Sci-Fi</option>
+        <option value="Romantic">Romantic</option>
+        <option value="Fantasy">Fantasy</option>
+        <option value="Crime">Crime</option>
+      </select>
+<select id="yearFilter" class="filter-select">
+  <option value="">All Years</option>
+  <option value="2025">2025</option>
+  <option value="2024">2024</option>
+  <option value="2023">2023</option>
+  <option value="2022">2022</option>
+  <option value="2021">2021</option>
+  <option value="2020">2020</option>
+  <option value="2019">2019</option>
+  <option value="2018">2018</option>
+  <option value="2017">2017</option>
+  <option value="2016">2016</option>
+  <option value="2015">2015</option>
+  <option value="2014">2014</option>
+  <option value="2013">2013</option>
+  <option value="2012">2012</option>
+  <option value="2011">2011</option>
+  <option value="2010">2010</option>
+  <option value="2009">2009</option>
+  <option value="2008">2008</option>
+  <option value="2007">2007</option>
+  <option value="2006">2006</option>
+  <option value="2005">2005</option>
+  <option value="1999">1999</option>
+</select>
+
+      </select>
+    </div>
+  </section>
+
+
+  <!-- ===== SEARCH RESULTS SECTION (HIDDEN BY DEFAULT) ===== -->
+<section id="searchSection" class="movie-row" style="display:none;">
+  <h2>Search Results</h2>
+  <div id="searchGrid" class="movie-slider"></div>
+</section>
+
+
+  <!-- ===== MOVIE ROWS ===== -->
+  <section class="movie-row">
+    <h2>Recommended</h2>
+    <div class="movie-slider" id="recommendedMovies"></div>
+  </section>
+
+  <section class="movie-row">
+    <h2>Top Rated</h2>
+    <div class="movie-slider" id="topRatedMovies"></div>
+  </section>
+
+<section class="movie-row">
+  <h2>Trending Now</h2>
+  <div class="movie-slider" id="trendingMovies"></div>
+</section>
+
+<section class="movie-row">
+  <h2>Action & Adventure</h2>
+  <div class="movie-slider" id="actionAdventureMovies"></div>
+</section>
+
+<section class="movie-row">
+  <h2>Romantic / Drama</h2>
+  <div class="movie-slider" id="romanticDramaMovies"></div>
+</section>
+
+<section class="movie-row">
+  <h2>Sci-Fi & Fantasy</h2>
+  <div class="movie-slider" id="scifiMovies"></div>
+</section>
+
+<section class="movie-row">
+  <h2>Thriller / Crime</h2>
+  <div class="movie-slider" id="thrillerCrimeMovies"></div>
+</section>
+
+<section class="movie-row">
+  <h2>Comedy</h2>
+  <div class="movie-slider" id="comedyMovies"></div>
+</section>
+
+
+  <script src="js/main.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,171 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: #0e0e0e;
+  color: #fff;
+}
+
+/* Navbar (reuse your global navbar style) */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 40px;
+  background: rgba(0, 0, 0, 0.6);
+  border-bottom: 1px solid #222;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.logo {
+  font-size: 26px;
+  font-weight: 700;
+  color: #00ffa2;
+}
+
+.nav-links a {
+  color: #ccc;
+  margin-left: 20px;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+.nav-links a:hover {
+  color: #00ffa2;
+}
+
+/* ===== ACTOR PAGE ===== */
+.actor-page {
+  max-width: 1100px;
+  margin: 50px auto;
+  padding: 0 20px;
+}
+
+/* Header */
+.actor-header {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+/* Smaller, rounded actor photo */
+.actor-pic-wrapper {
+  position: relative;
+  text-align: center;
+}
+
+.actor-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid #00ffa2;
+  object-fit: cover;
+  box-shadow: 0 0 25px rgba(0, 255, 162, 0.2);
+}
+
+/* Character name below actor photo */
+.character-name {
+  text-align: center;
+  color: #00ffa2;
+  font-weight: 600;
+  font-size: 14px;
+  margin-top: 8px;
+  text-shadow: 0 0 8px rgba(0, 255, 162, 0.4);
+}
+
+/* Actor text */
+.actor-info h1 {
+  font-size: 28px;
+  margin-bottom: 5px;
+  color: #00ffa2;
+}
+
+.actor-subtext {
+  color: #aaa;
+  font-size: 15px;
+}
+
+/* ===== MOVIE GRID ===== */
+.actor-movies-section h2 {
+  font-size: 22px;
+  color: #00ffa2;
+  margin-bottom: 18px;
+  position: relative;
+}
+
+.actor-movies-section h2::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #00ffa2;
+  margin-top: 5px;
+  border-radius: 2px;
+}
+
+/* Compact Netflix-style grid */
+.actor-movie-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  justify-content: flex-start;
+}
+
+.actor-movie-card {
+  background: #1a1a1a;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  width: 160px;
+  text-align: center;
+}
+
+.actor-movie-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.6);
+}
+
+.actor-movie-card img {
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  border-bottom: 1px solid #222;
+}
+
+.actor-movie-card h4 {
+  font-size: 13px;
+  padding: 8px;
+  color: white;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+
+
+
+/* Character line under each movie */
+.movie-character {
+  color: #00ffa2;
+  font-size: 12px;
+  margin-top: -4px;
+  margin-bottom: 8px;
+  text-shadow: 0 0 6px rgba(0, 255, 162, 0.3);
+}
+
+/* Fix image rounding consistency */
+.actor-pic {
+  transition: 0.3s ease;
+}
+
+.actor-pic:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 25px rgba(0, 255, 162, 0.4);
+}
+
+
+
+
