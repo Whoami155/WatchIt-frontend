@@ -165,10 +165,11 @@ async function loadReviews(retryCount = 0) {
   const container = document.getElementById("userReviews");
   if (!container) return;
 
-  try {
-    const res = await fetch(`https://watch-it-fr.onrender.com/api/reviews/${id}`, {
-      cache: "no-store",
-    });
+ try {
+  const res = await fetch(`https://watch-it-fr.onrender.com/api/reviews/movie/${id}`, {
+    cache: "no-store",
+  });
+
 
     if (!res.ok) throw new Error(`Network error: ${res.status}`);
 
@@ -273,6 +274,7 @@ function initStarRating() {
     });
   });
 }
+
 
 
 
